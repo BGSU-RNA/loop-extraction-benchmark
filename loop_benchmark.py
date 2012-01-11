@@ -6,7 +6,7 @@
 __author__ = 'Anton Petrov'
 
 
-import re, os, numpy, logging
+import re, os, numpy, logging, csv
 
 
 class LoopBenchmark():
@@ -18,11 +18,14 @@ class LoopBenchmark():
         self.rna3dmotif_location = 'rna3dmotif/CATALOGUE/DESC'
         self.cossmos_location = 'cossmos/results/tmp'
         self.rnajunction_location = 'rnajunction/junctions'
+        self.fr3d_ifn = 'fr3d/fr3d_loops.csv'
 
         self.scor = []
         self.rna3dmotif = []
         self.cossmos = []
         self.rnajunction = []
+        self.fr3d = []
+        self.fr3d_ids = []
 
     def parse_scor(self):
         """
@@ -140,6 +143,20 @@ class LoopBenchmark():
         pass
 
     def parse_fr3d(self):
+        """
+        """
+        f = open(self.fr3d_ifn,'r')
+        reader = csv.reader(f)
+        for i, row in enumerate(reader):
+            if i == 0:
+                i = 1
+                continue
+            self.fr3d_ids.append(row[0])
+            self.fr3d.append(row[1])
+        print self.fr3d
+
+
+    def integrate(self):
         pass
 
 
@@ -152,8 +169,8 @@ def main():
 #     L.parse_scor()
 #     L.parse_rna3dmotif()
 #     L.parse_cossmos()
-    L.parse_rnajunction()
-
+#     L.parse_rnajunction()
+    L.parse_fr3d()
 
 if __name__ == "__main__":
     main()
