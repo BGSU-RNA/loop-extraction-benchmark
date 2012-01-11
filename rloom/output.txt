@@ -1,0 +1,966 @@
+pdb1s7219.e33-47
+Downloaded file structures/pdb1s7219.e33-47.pdb
+pdb1s7210.e382-391
+Downloaded file structures/pdb1s7210.e382-391.pdb
+pdb1s7210.e317-332
+Downloaded file structures/pdb1s7210.e317-332.pdb
+pdb1s7210.e304-311
+Downloaded file structures/pdb1s7210.e304-311.pdb
+pdb1s7210.e2737-2748
+Downloaded file structures/pdb1s7210.e2737-2748.pdb
+pdb1s7210.e2700-2708
+Downloaded file structures/pdb1s7210.e2700-2708.pdb
+pdb1s7210.e2644-2658
+Downloaded file structures/pdb1s7210.e2644-2658.pdb
+pdb1s7210.e2601-2606
+Downloaded file structures/pdb1s7210.e2601-2606.pdb
+pdb1s7210.e2553-2569
+Downloaded file structures/pdb1s7210.e2553-2569.pdb
+pdb1s7210.e2492-2497
+Downloaded file structures/pdb1s7210.e2492-2497.pdb
+pdb1s7210.e2449-2455
+Downloaded file structures/pdb1s7210.e2449-2455.pdb
+pdb1s7210.e244-249
+Downloaded file structures/pdb1s7210.e244-249.pdb
+pdb1s7210.e2426-2433
+Downloaded file structures/pdb1s7210.e2426-2433.pdb
+pdb1s7210.e2369-2377
+Downloaded file structures/pdb1s7210.e2369-2377.pdb
+pdb1s7210.e408-416
+Downloaded file structures/pdb1s7210.e408-416.pdb
+pdb1s7210.e46-55
+Downloaded file structures/pdb1s7210.e46-55.pdb
+pdb1s7219.e89-94
+Downloaded file structures/pdb1s7219.e89-94.pdb
+pdb1s7210.e913-918
+Downloaded file structures/pdb1s7210.e913-918.pdb
+pdb1s7210.e866-872
+Downloaded file structures/pdb1s7210.e866-872.pdb
+pdb1s7210.e831-840
+Downloaded file structures/pdb1s7210.e831-840.pdb
+pdb1s7210.e798-803
+Downloaded file structures/pdb1s7210.e798-803.pdb
+pdb1s7210.e74-82
+Downloaded file structures/pdb1s7210.e74-82.pdb
+pdb1s7210.e727-732
+Downloaded file structures/pdb1s7210.e727-732.pdb
+pdb1s7210.e682-687
+Downloaded file structures/pdb1s7210.e682-687.pdb
+pdb1s7210.e662-668
+Downloaded file structures/pdb1s7210.e662-668.pdb
+pdb1s7210.e615-624
+Downloaded file structures/pdb1s7210.e615-624.pdb
+pdb1s7210.e568-573
+Downloaded file structures/pdb1s7210.e568-573.pdb
+pdb1s7210.e485-491
+Downloaded file structures/pdb1s7210.e485-491.pdb
+pdb1s7210.e460-465
+Downloaded file structures/pdb1s7210.e460-465.pdb
+pdb1s7210.e2305-2313
+Downloaded file structures/pdb1s7210.e2305-2313.pdb
+pdb1s7210.e1023-1029
+Downloaded file structures/pdb1s7210.e1023-1029.pdb
+pdb1s7210.e1565-1571
+Downloaded file structures/pdb1s7210.e1565-1571.pdb
+pdb1s7210.e150-170
+Downloaded file structures/pdb1s7210.e150-170.pdb
+pdb1s7210.e1467-1476
+Downloaded file structures/pdb1s7210.e1467-1476.pdb
+pdb1s7210.e1437-1443
+Downloaded file structures/pdb1s7210.e1437-1443.pdb
+pdb1s7210.e1399-1405
+Downloaded file structures/pdb1s7210.e1399-1405.pdb
+pdb1s7210.e1356-1364
+Downloaded file structures/pdb1s7210.e1356-1364.pdb
+pdb1s7210.e1295-1300
+Downloaded file structures/pdb1s7210.e1295-1300.pdb
+pdb1s7210.e128-134
+Downloaded file structures/pdb1s7210.e128-134.pdb
+pdb1s7210.e1243-1251
+Downloaded file structures/pdb1s7210.e1243-1251.pdb
+pdb1s7210.e1165-1172
+Downloaded file structures/pdb1s7210.e1165-1172.pdb
+pdb1s7210.e1137-1147
+Downloaded file structures/pdb1s7210.e1137-1147.pdb
+pdb1s7210.e109-113
+Downloaded file structures/pdb1s7210.e109-113.pdb
+pdb1s7210.e1045-1052
+Downloaded file structures/pdb1s7210.e1045-1052.pdb
+pdb1s7210.e1658-1665
+Downloaded file structures/pdb1s7210.e1658-1665.pdb
+pdb1s7210.e1676-1684
+Downloaded file structures/pdb1s7210.e1676-1684.pdb
+pdb1s7210.e2252-2262
+Downloaded file structures/pdb1s7210.e2252-2262.pdb
+pdb1s7210.e2274-2279
+Downloaded file structures/pdb1s7210.e2274-2279.pdb
+pdb1s7210.e2221-2228
+Downloaded file structures/pdb1s7210.e2221-2228.pdb
+pdb1s7210.e2163-2175
+Downloaded file structures/pdb1s7210.e2163-2175.pdb
+pdb1s7210.e2146-2154
+Downloaded file structures/pdb1s7210.e2146-2154.pdb
+pdb1s7210.e2113-2118
+Downloaded file structures/pdb1s7210.e2113-2118.pdb
+pdb1s7210.e209-215
+Downloaded file structures/pdb1s7210.e209-215.pdb
+pdb1s7210.e1952-1960
+Downloaded file structures/pdb1s7210.e1952-1960.pdb
+pdb1s7210.e1887-1894
+Downloaded file structures/pdb1s7210.e1887-1894.pdb
+pdb1s7210.e187-193
+Downloaded file structures/pdb1s7210.e187-193.pdb
+pdb1s7210.e1833-1838
+Downloaded file structures/pdb1s7210.e1833-1838.pdb
+pdb1s7210.e1804-1814
+Downloaded file structures/pdb1s7210.e1804-1814.pdb
+pdb1s7210.e1764-1770
+Downloaded file structures/pdb1s7210.e1764-1770.pdb
+pdb1s7210.e1735-1751
+Downloaded file structures/pdb1s7210.e1735-1751.pdb
+pdb1s7210.n2046-2523
+Downloaded file structures/pdb1s7210.n2046-2523.pdb
+pdb1s72F0.n198-225
+Error code:  404
+pdb1s7210.n198-225
+Downloaded file structures/pdb1s7210.n198-225.pdb
+pdb1s72F0.n2046-2523
+Error code:  404
+pdb1s7210.n2056-2514
+Downloaded file structures/pdb1s7210.n2056-2514.pdb
+pdb1s72F0.n2056-2514
+Error code:  404
+pdb1s7210.n2059-2510
+Downloaded file structures/pdb1s7210.n2059-2510.pdb
+pdb1s72F0.n2059-2510
+Error code:  404
+pdb1s72F0.n1884-1897
+Error code:  404
+pdb1s7210.n1884-1897
+Downloaded file structures/pdb1s7210.n1884-1897.pdb
+pdb1s72F0.n1876-1905
+Error code:  404
+pdb1s72F0.n1696-2012
+Error code:  404
+pdb1s7210.n1705-2007
+Downloaded file structures/pdb1s7210.n1705-2007.pdb
+pdb1s72F0.n1705-2007
+Error code:  404
+pdb1s7210.n1714-1998
+Downloaded file structures/pdb1s7210.n1714-1998.pdb
+pdb1s72F0.n1714-1998
+Error code:  404
+pdb1s7210.n1819-1854
+Downloaded file structures/pdb1s7210.n1819-1854.pdb
+pdb1s72F0.n1819-1854
+Error code:  404
+pdb1s7210.n1831-1840
+Downloaded file structures/pdb1s7210.n1831-1840.pdb
+pdb1s72F0.n1831-1840
+Error code:  404
+pdb1s7210.n1876-1905
+Downloaded file structures/pdb1s7210.n1876-1905.pdb
+pdb1s7210.n208-216
+Downloaded file structures/pdb1s7210.n208-216.pdb
+pdb1s72F0.n208-216
+Error code:  404
+pdb1s72F0.n2368-2378
+Error code:  404
+pdb1s7210.n2406-2478
+Downloaded file structures/pdb1s7210.n2406-2478.pdb
+pdb1s72F0.n2406-2478
+Error code:  404
+pdb1s7210.n241-252
+Downloaded file structures/pdb1s7210.n241-252.pdb
+pdb1s72F0.n241-252
+Error code:  404
+pdb1s7210.n2411-2469
+Downloaded file structures/pdb1s7210.n2411-2469.pdb
+pdb1s72F0.n2411-2469
+Error code:  404
+pdb1s7210.n2532-2685
+Downloaded file structures/pdb1s7210.n2532-2685.pdb
+pdb1s72F0.n2532-2685
+Error code:  404
+pdb1s7210.n2368-2378
+Downloaded file structures/pdb1s7210.n2368-2378.pdb
+pdb1s72F0.n236-259
+Error code:  404
+pdb1s7210.n2080-2141
+Downloaded file structures/pdb1s7210.n2080-2141.pdb
+pdb1s72F0.n2080-2141
+Error code:  404
+pdb1s7210.n2086-2134
+Downloaded file structures/pdb1s7210.n2086-2134.pdb
+pdb1s72F0.n2086-2134
+Error code:  404
+pdb1s7210.n2353-2394
+Downloaded file structures/pdb1s7210.n2353-2394.pdb
+pdb1s72F0.n2353-2394
+Error code:  404
+pdb1s7210.n2358-2388
+Downloaded file structures/pdb1s7210.n2358-2388.pdb
+pdb1s72F0.n2358-2388
+Error code:  404
+pdb1s7210.n236-259
+Downloaded file structures/pdb1s7210.n236-259.pdb
+pdb1s7210.n2540-2673
+Downloaded file structures/pdb1s7210.n2540-2673.pdb
+pdb1s7210.n1696-2012
+Downloaded file structures/pdb1s7210.n1696-2012.pdb
+pdb1s7210.n1058-1236
+Downloaded file structures/pdb1s7210.n1058-1236.pdb
+pdb1s7210.n1130-1154
+Downloaded file structures/pdb1s7210.n1130-1154.pdb
+pdb1s72F0.n1130-1154
+Error code:  404
+pdb1s7210.n1135-1149
+Downloaded file structures/pdb1s7210.n1135-1149.pdb
+pdb1s72F0.n1135-1149
+Error code:  404
+pdb1s7210.n1274-1318
+Downloaded file structures/pdb1s7210.n1274-1318.pdb
+pdb1s72F0.n1274-1318
+Error code:  404
+pdb1s7210.n1288-1307
+Downloaded file structures/pdb1s7210.n1288-1307.pdb
+pdb1s72F0.n1288-1307
+Error code:  404
+pdb1s7210.n1389-1413
+Downloaded file structures/pdb1s7210.n1389-1413.pdb
+pdb1s72F0.n1124-1181
+Error code:  404
+pdb1s7210.n1124-1181
+Downloaded file structures/pdb1s7210.n1124-1181.pdb
+pdb1s72F0.n1058-1236
+Error code:  404
+pdb1s7210.n1068-1226
+Downloaded file structures/pdb1s7210.n1068-1226.pdb
+pdb1s72F0.n1068-1226
+Error code:  404
+pdb1s7210.n1071-1210
+Downloaded file structures/pdb1s7210.n1071-1210.pdb
+pdb1s72F0.n1071-1210
+Error code:  404
+pdb1s7210.n1103-1197
+Downloaded file structures/pdb1s7210.n1103-1197.pdb
+pdb1s72F0.n1103-1197
+Error code:  404
+pdb1s7210.n1107-1194
+Downloaded file structures/pdb1s7210.n1107-1194.pdb
+pdb1s72F0.n1107-1194
+Error code:  404
+pdb1s72F0.n1389-1413
+Error code:  404
+pdb1s7210.n1398-1406
+Downloaded file structures/pdb1s7210.n1398-1406.pdb
+pdb1s7210.n1504-1621
+Downloaded file structures/pdb1s7210.n1504-1621.pdb
+pdb1s72F0.n1504-1621
+Error code:  404
+pdb1s7210.n1515-1610
+Downloaded file structures/pdb1s7210.n1515-1610.pdb
+pdb1s72F0.n1515-1610
+Error code:  404
+pdb1s7210.n1545-1593
+Downloaded file structures/pdb1s7210.n1545-1593.pdb
+pdb1s72F0.n1545-1593
+Error code:  404
+pdb1s7210.n1554-1583
+Downloaded file structures/pdb1s7210.n1554-1583.pdb
+pdb1s72F0.n1554-1583
+Error code:  404
+pdb1s7210.n1563-1573
+Downloaded file structures/pdb1s7210.n1563-1573.pdb
+pdb1s72F0.n1498-1633
+Error code:  404
+pdb1s7210.n1498-1633
+Downloaded file structures/pdb1s7210.n1498-1633.pdb
+pdb1s72F0.n1398-1406
+Error code:  404
+pdb1s7210.n1424-1459
+Downloaded file structures/pdb1s7210.n1424-1459.pdb
+pdb1s72F0.n1424-1459
+Error code:  404
+pdb1s7210.n1429-1452
+Downloaded file structures/pdb1s7210.n1429-1452.pdb
+pdb1s72F0.n1429-1452
+Error code:  404
+pdb1s7210.n1436-1444
+Downloaded file structures/pdb1s7210.n1436-1444.pdb
+pdb1s72F0.n1436-1444
+Error code:  404
+pdb1s7210.n1483-1643
+Downloaded file structures/pdb1s7210.n1483-1643.pdb
+pdb1s72F0.n1483-1643
+Error code:  404
+pdb1s72F0.n1563-1573
+Error code:  404
+pdb1s72F9.n81-101
+Error code:  404
+pdb1s72F0.n827-843
+Error code:  404
+pdb1s7210.n827-843
+Downloaded file structures/pdb1s7210.n827-843.pdb
+pdb1s72F0.n822-847
+Error code:  404
+pdb1s7210.n822-847
+Downloaded file structures/pdb1s7210.n822-847.pdb
+pdb1s72F0.n792-809
+Error code:  404
+pdb1s7210.n792-809
+Downloaded file structures/pdb1s7210.n792-809.pdb
+pdb1s72F0.n785-817
+Error code:  404
+pdb1s7210.n785-817
+Downloaded file structures/pdb1s7210.n785-817.pdb
+pdb1s72F0.n763-886
+Error code:  404
+pdb1s7210.n763-886
+Downloaded file structures/pdb1s7210.n763-886.pdb
+pdb1s72F0.n756-896
+Error code:  404
+pdb1s7210.n756-896
+Downloaded file structures/pdb1s7210.n756-896.pdb
+pdb1s72F0.n72-84
+Error code:  404
+pdb1s7210.n72-84
+Downloaded file structures/pdb1s7210.n72-84.pdb
+pdb1s72F0.n701-713
+Error code:  404
+pdb1s7210.n701-713
+Downloaded file structures/pdb1s7210.n701-713.pdb
+pdb1s72F0.n694-720
+Error code:  404
+pdb1s7210.n925-1008
+Downloaded file structures/pdb1s7210.n925-1008.pdb
+pdb1s72F0.n925-1008
+Error code:  404
+pdb1s7210.n934-995
+Downloaded file structures/pdb1s7210.n934-995.pdb
+pdb1s7219.n81-101
+Downloaded file structures/pdb1s7219.n81-101.pdb
+pdb1s7210.n553-588
+Downloaded file structures/pdb1s7210.n553-588.pdb
+pdb1s72F9.n71-110
+Error code:  404
+pdb1s7219.n71-110
+Downloaded file structures/pdb1s7219.n71-110.pdb
+pdb1s72F9.n28-54
+Error code:  404
+pdb1s7219.n28-54
+Downloaded file structures/pdb1s7219.n28-54.pdb
+pdb1s72F9.n16-64
+Error code:  404
+pdb1s7219.n16-64
+Downloaded file structures/pdb1s7219.n16-64.pdb
+pdb1s72F0.n962-969
+Error code:  404
+pdb1s7210.n962-969
+Downloaded file structures/pdb1s7210.n962-969.pdb
+pdb1s72F0.n958-973
+Error code:  404
+pdb1s7210.n958-973
+Downloaded file structures/pdb1s7210.n958-973.pdb
+pdb1s72F0.n951-978
+Error code:  404
+pdb1s7210.n951-978
+Downloaded file structures/pdb1s7210.n951-978.pdb
+pdb1s72F0.n938-992
+Error code:  404
+pdb1s7210.n938-992
+Downloaded file structures/pdb1s7210.n938-992.pdb
+pdb1s72F0.n934-995
+Error code:  404
+pdb1s7210.n694-720
+Downloaded file structures/pdb1s7210.n694-720.pdb
+pdb1s72F0.n659-671
+Error code:  404
+pdb1s72F0.n2540-2673
+Error code:  404
+pdb1s7210.n2725-2759
+Downloaded file structures/pdb1s7210.n2725-2759.pdb
+pdb1s72F0.n2721-2764
+Error code:  404
+pdb1s7210.n2721-2764
+Downloaded file structures/pdb1s7210.n2721-2764.pdb
+pdb1s72F0.n2717-2769
+Error code:  404
+pdb1s7210.n2717-2769
+Downloaded file structures/pdb1s7210.n2717-2769.pdb
+pdb1s72F0.n267-366
+Error code:  404
+pdb1s7210.n267-366
+Downloaded file structures/pdb1s7210.n267-366.pdb
+pdb1s72F0.n2641-2661
+Error code:  404
+pdb1s7210.n2641-2661
+Downloaded file structures/pdb1s7210.n2641-2661.pdb
+pdb1s72F0.n2634-2668
+Error code:  404
+pdb1s7210.n2634-2668
+Downloaded file structures/pdb1s7210.n2634-2668.pdb
+pdb1s72F0.n2592-2618
+Error code:  404
+pdb1s7210.n2592-2618
+Downloaded file structures/pdb1s7210.n2592-2618.pdb
+pdb1s72F0.n2585-2625
+Error code:  404
+pdb1s7210.n2585-2625
+Downloaded file structures/pdb1s7210.n2585-2625.pdb
+pdb1s72F0.n2577-2631
+Error code:  404
+pdb1s7210.n2577-2631
+Downloaded file structures/pdb1s7210.n2577-2631.pdb
+pdb1s72F0.n2725-2759
+Error code:  404
+pdb1s7210.n2733-2752
+Downloaded file structures/pdb1s7210.n2733-2752.pdb
+pdb1s72F0.n2733-2752
+Error code:  404
+pdb1s72F0.n564-577
+Error code:  404
+pdb1s7210.n63-96
+Downloaded file structures/pdb1s7210.n63-96.pdb
+pdb1s72F0.n63-96
+Error code:  404
+pdb1s7210.n653-677
+Downloaded file structures/pdb1s7210.n653-677.pdb
+pdb1s72F0.n653-677
+Error code:  404
+pdb1s7210.n659-671
+Downloaded file structures/pdb1s7210.n659-671.pdb
+pdb1s72F0.n553-588
+Error code:  404
+pdb1s72F0.n547-594
+Error code:  404
+pdb1s7210.n564-577
+Downloaded file structures/pdb1s7210.n564-577.pdb
+pdb1s7210.n288-347
+Downloaded file structures/pdb1s7210.n288-347.pdb
+pdb1s72F0.n288-347
+Error code:  404
+pdb1s7210.n531-609
+Downloaded file structures/pdb1s7210.n531-609.pdb
+pdb1s72F0.n531-609
+Error code:  404
+pdb1s7210.n545-598
+Downloaded file structures/pdb1s7210.n545-598.pdb
+pdb1s72F0.n545-598
+Error code:  404
+pdb1s7210.n547-594
+Downloaded file structures/pdb1s7210.n547-594.pdb
+pdb1s7210.m229-425
+Downloaded file structures/pdb1s7210.m229-425.pdb
+pdb1s7210.m2411-2469
+Downloaded file structures/pdb1s7210.m2411-2469.pdb
+pdb1s7210.m25-440
+Downloaded file structures/pdb1s7210.m25-440.pdb
+pdb1s7210.m2540-2673
+Downloaded file structures/pdb1s7210.m2540-2673.pdb
+pdb1s7210.m2693-2775
+Downloaded file structures/pdb1s7210.m2693-2775.pdb
+pdb1s7210.m288-347
+Downloaded file structures/pdb1s7210.m288-347.pdb
+pdb1s7210.m1124-1181
+Downloaded file structures/pdb1s7210.m1124-1181.pdb
+pdb1s7210.m2086-2134
+Downloaded file structures/pdb1s7210.m2086-2134.pdb
+pdb1s7210.m1342-2014
+Downloaded file structures/pdb1s7210.m1342-2014.pdb
+pdb1s7210.m1370-1692
+Downloaded file structures/pdb1s7210.m1370-1692.pdb
+pdb1s7210.m1378-1671
+Downloaded file structures/pdb1s7210.m1378-1671.pdb
+pdb1s7210.m1384-1651
+Downloaded file structures/pdb1s7210.m1384-1651.pdb
+pdb1s7210.m1418-1482
+Downloaded file structures/pdb1s7210.m1418-1482.pdb
+pdb1s7210.m1515-1610
+Downloaded file structures/pdb1s7210.m1515-1610.pdb
+pdb1s7210.m1714-1998
+Downloaded file structures/pdb1s7210.m1714-1998.pdb
+pdb1s7210.m1798-1983
+Downloaded file structures/pdb1s7210.m1798-1983.pdb
+pdb1s7210.m1857-1978
+Downloaded file structures/pdb1s7210.m1857-1978.pdb
+pdb1s7210.m19-472
+Downloaded file structures/pdb1s7210.m19-472.pdb
+pdb1s7210.m2074-2336
+Downloaded file structures/pdb1s7210.m2074-2336.pdb
+pdb1s7210.m33-141
+Downloaded file structures/pdb1s7210.m33-141.pdb
+pdb1s7210.m4-522
+Downloaded file structures/pdb1s7210.m4-522.pdb
+pdb1s7210.m774-860
+Downloaded file structures/pdb1s7210.m774-860.pdb
+pdb1s7219.m4-119
+Downloaded file structures/pdb1s7219.m4-119.pdb
+pdb1s7210.m2059-2510
+Downloaded file structures/pdb1s7210.m2059-2510.pdb
+pdb1s7210.m899-1269
+Downloaded file structures/pdb1s7210.m899-1269.pdb
+pdb1s7210.m763-886
+Downloaded file structures/pdb1s7210.m763-886.pdb
+pdb1s7210.m638-753
+Downloaded file structures/pdb1s7210.m638-753.pdb
+pdb1s7210.m629-1333
+Downloaded file structures/pdb1s7210.m629-1333.pdb
+pdb1s7210.m41-102
+Downloaded file structures/pdb1s7210.m41-102.pdb
+pdb1s7210.i973-977
+Downloaded file structures/pdb1s7210.i973-977.pdb
+pdb1s7219.i21-28
+Downloaded file structures/pdb1s7219.i21-28.pdb
+pdb1s7219.i101-106
+Downloaded file structures/pdb1s7219.i101-106.pdb
+pdb1s7210.i1038-1043
+Downloaded file structures/pdb1s7210.i1038-1043.pdb
+pdb1s7210.i995-1003
+Downloaded file structures/pdb1s7210.i995-1003.pdb
+pdb1s7210.i978-984
+Downloaded file structures/pdb1s7210.i978-984.pdb
+pdb1s7219.i50-53
+Downloaded file structures/pdb1s7219.i50-53.pdb
+pdb1s7219.i54-59
+Downloaded file structures/pdb1s7219.i54-59.pdb
+pdb1s7219.i64-66
+Downloaded file structures/pdb1s7219.i64-66.pdb
+pdb1s7219.i67-71
+Downloaded file structures/pdb1s7219.i67-71.pdb
+pdb1s7219.i75-81
+Downloaded file structures/pdb1s7219.i75-81.pdb
+pdb1s7219.i86-88
+Downloaded file structures/pdb1s7219.i86-88.pdb
+pdb1s7219.i9-14
+Downloaded file structures/pdb1s7219.i9-14.pdb
+pdb1s7210.i2499-2501
+Downloaded file structures/pdb1s7210.i2499-2501.pdb
+pdb1s7219.i110-114
+Downloaded file structures/pdb1s7219.i110-114.pdb
+pdb1s7210.i969-972
+Downloaded file structures/pdb1s7210.i969-972.pdb
+pdb1s7210.i1666-1668
+Downloaded file structures/pdb1s7210.i1666-1668.pdb
+pdb1s7210.i1860-1862
+Downloaded file structures/pdb1s7210.i1860-1862.pdb
+pdb1s7210.i1864-1867
+Downloaded file structures/pdb1s7210.i1864-1867.pdb
+pdb1s7210.i1873-1876
+Downloaded file structures/pdb1s7210.i1873-1876.pdb
+pdb1s7210.i1878-1884
+Downloaded file structures/pdb1s7210.i1878-1884.pdb
+pdb1s7210.i1897-1903
+Downloaded file structures/pdb1s7210.i1897-1903.pdb
+pdb1s7210.i1910-1913
+Downloaded file structures/pdb1s7210.i1910-1913.pdb
+pdb1s7210.i1927-1948
+Downloaded file structures/pdb1s7210.i1927-1948.pdb
+pdb1s7210.i194-198
+Downloaded file structures/pdb1s7210.i194-198.pdb
+pdb1s7210.i1964-1975
+Downloaded file structures/pdb1s7210.i1964-1975.pdb
+pdb1s7210.i1978-1982
+Downloaded file structures/pdb1s7210.i1978-1982.pdb
+pdb1s7210.i1983-1985
+Downloaded file structures/pdb1s7210.i1983-1985.pdb
+pdb1s7210.i1854-1857
+Downloaded file structures/pdb1s7210.i1854-1857.pdb
+pdb1s7210.i1840-1848
+Downloaded file structures/pdb1s7210.i1840-1848.pdb
+pdb1s7210.i1671-1674
+Downloaded file structures/pdb1s7210.i1671-1674.pdb
+pdb1s7210.i1686-1689
+Downloaded file structures/pdb1s7210.i1686-1689.pdb
+pdb1s7210.i1692-1696
+Downloaded file structures/pdb1s7210.i1692-1696.pdb
+pdb1s7210.i1699-1705
+Downloaded file structures/pdb1s7210.i1699-1705.pdb
+pdb1s7210.i1712-1714
+Downloaded file structures/pdb1s7210.i1712-1714.pdb
+pdb1s7210.i1715-1731
+Downloaded file structures/pdb1s7210.i1715-1731.pdb
+pdb1s7210.i174-186
+Downloaded file structures/pdb1s7210.i174-186.pdb
+pdb1s7210.i1778-1791
+Downloaded file structures/pdb1s7210.i1778-1791.pdb
+pdb1s7210.i1799-1803
+Downloaded file structures/pdb1s7210.i1799-1803.pdb
+pdb1s7210.i1815-1819
+Downloaded file structures/pdb1s7210.i1815-1819.pdb
+pdb1s7210.i1825-1831
+Downloaded file structures/pdb1s7210.i1825-1831.pdb
+pdb1s7210.i1991-1997
+Downloaded file structures/pdb1s7210.i1991-1997.pdb
+pdb1s7210.i1998-2000
+Downloaded file structures/pdb1s7210.i1998-2000.pdb
+pdb1s7210.i2134-2137
+Downloaded file structures/pdb1s7210.i2134-2137.pdb
+pdb1s7210.i2141-2145
+Downloaded file structures/pdb1s7210.i2141-2145.pdb
+pdb1s7210.i2155-2158
+Downloaded file structures/pdb1s7210.i2155-2158.pdb
+pdb1s7210.i216-221
+Downloaded file structures/pdb1s7210.i216-221.pdb
+pdb1s7210.i2180-2198
+Downloaded file structures/pdb1s7210.i2180-2198.pdb
+pdb1s7210.i2214-2220
+Downloaded file structures/pdb1s7210.i2214-2220.pdb
+pdb1s7210.i2229-2244
+Downloaded file structures/pdb1s7210.i2229-2244.pdb
+pdb1s7210.i225-229
+Downloaded file structures/pdb1s7210.i225-229.pdb
+pdb1s7210.i2270-2272
+Downloaded file structures/pdb1s7210.i2270-2272.pdb
+pdb1s7210.i2281-2295
+Downloaded file structures/pdb1s7210.i2281-2295.pdb
+pdb1s7210.i2299-2301
+Downloaded file structures/pdb1s7210.i2299-2301.pdb
+pdb1s7210.i2121-2127
+Downloaded file structures/pdb1s7210.i2121-2127.pdb
+pdb1s7210.i2106-2110
+Downloaded file structures/pdb1s7210.i2106-2110.pdb
+pdb1s7210.i20-23
+Downloaded file structures/pdb1s7210.i20-23.pdb
+pdb1s7210.i2007-2009
+Downloaded file structures/pdb1s7210.i2007-2009.pdb
+pdb1s7210.i2014-2046
+Downloaded file structures/pdb1s7210.i2014-2046.pdb
+pdb1s7210.i202-208
+Downloaded file structures/pdb1s7210.i202-208.pdb
+pdb1s7210.i2052-2056
+Downloaded file structures/pdb1s7210.i2052-2056.pdb
+pdb1s7210.i2057-2059
+Downloaded file structures/pdb1s7210.i2057-2059.pdb
+pdb1s7210.i2060-2067
+Downloaded file structures/pdb1s7210.i2060-2067.pdb
+pdb1s7210.i2070-2072
+Downloaded file structures/pdb1s7210.i2070-2072.pdb
+pdb1s7210.i2077-2080
+Downloaded file structures/pdb1s7210.i2077-2080.pdb
+pdb1s7210.i2084-2086
+Downloaded file structures/pdb1s7210.i2084-2086.pdb
+pdb1s7210.i2093-2096
+Downloaded file structures/pdb1s7210.i2093-2096.pdb
+pdb1s7210.i231-236
+Downloaded file structures/pdb1s7210.i231-236.pdb
+pdb1s7210.i1651-1657
+Downloaded file structures/pdb1s7210.i1651-1657.pdb
+pdb1s7210.i1008-1014
+Downloaded file structures/pdb1s7210.i1008-1014.pdb
+pdb1s7210.i12-19
+Downloaded file structures/pdb1s7210.i12-19.pdb
+pdb1s7210.i1210-1224
+Downloaded file structures/pdb1s7210.i1210-1224.pdb
+pdb1s7210.i1226-1230
+Downloaded file structures/pdb1s7210.i1226-1230.pdb
+pdb1s7210.i1255-1258
+Downloaded file structures/pdb1s7210.i1255-1258.pdb
+pdb1s7210.i1259-1264
+Downloaded file structures/pdb1s7210.i1259-1264.pdb
+pdb1s7210.i1269-1274
+Downloaded file structures/pdb1s7210.i1269-1274.pdb
+pdb1s7210.i1281-1288
+Downloaded file structures/pdb1s7210.i1281-1288.pdb
+pdb1s7210.i1307-1311
+Downloaded file structures/pdb1s7210.i1307-1311.pdb
+pdb1s7210.i1318-1329
+Downloaded file structures/pdb1s7210.i1318-1329.pdb
+pdb1s7210.i1333-1342
+Downloaded file structures/pdb1s7210.i1333-1342.pdb
+pdb1s7210.i1343-1351
+Downloaded file structures/pdb1s7210.i1343-1351.pdb
+pdb1s7210.i1197-1208
+Downloaded file structures/pdb1s7210.i1197-1208.pdb
+pdb1s7210.i1181-1185
+Downloaded file structures/pdb1s7210.i1181-1185.pdb
+pdb1s7210.i102-107
+Downloaded file structures/pdb1s7210.i102-107.pdb
+pdb1s7210.i1054-1058
+Downloaded file structures/pdb1s7210.i1054-1058.pdb
+pdb1s7210.i1064-1068
+Downloaded file structures/pdb1s7210.i1064-1068.pdb
+pdb1s7210.i1073-1103
+Downloaded file structures/pdb1s7210.i1073-1103.pdb
+pdb1s7210.i1105-1107
+Downloaded file structures/pdb1s7210.i1105-1107.pdb
+pdb1s7210.i1116-1124
+Downloaded file structures/pdb1s7210.i1116-1124.pdb
+pdb1s7210.i1128-1130
+Downloaded file structures/pdb1s7210.i1128-1130.pdb
+pdb1s7210.i1132-1135
+Downloaded file structures/pdb1s7210.i1132-1135.pdb
+pdb1s7210.i1149-1152
+Downloaded file structures/pdb1s7210.i1149-1152.pdb
+pdb1s7210.i1154-1164
+Downloaded file structures/pdb1s7210.i1154-1164.pdb
+pdb1s7210.i1173-1177
+Downloaded file structures/pdb1s7210.i1173-1177.pdb
+pdb1s7210.i1373-1378
+Downloaded file structures/pdb1s7210.i1373-1378.pdb
+pdb1s7210.i138-140
+Downloaded file structures/pdb1s7210.i138-140.pdb
+pdb1s7210.i1500-1504
+Downloaded file structures/pdb1s7210.i1500-1504.pdb
+pdb1s7210.i1511-1515
+Downloaded file structures/pdb1s7210.i1511-1515.pdb
+pdb1s7210.i1540-1545
+Downloaded file structures/pdb1s7210.i1540-1545.pdb
+pdb1s7210.i1549-1554
+Downloaded file structures/pdb1s7210.i1549-1554.pdb
+pdb1s7210.i1558-1563
+Downloaded file structures/pdb1s7210.i1558-1563.pdb
+pdb1s7210.i1573-1579
+Downloaded file structures/pdb1s7210.i1573-1579.pdb
+pdb1s7210.i1583-1589
+Downloaded file structures/pdb1s7210.i1583-1589.pdb
+pdb1s7210.i1593-1605
+Downloaded file structures/pdb1s7210.i1593-1605.pdb
+pdb1s7210.i1610-1614
+Downloaded file structures/pdb1s7210.i1610-1614.pdb
+pdb1s7210.i1621-1631
+Downloaded file structures/pdb1s7210.i1621-1631.pdb
+pdb1s7210.i1633-1636
+Downloaded file structures/pdb1s7210.i1633-1636.pdb
+pdb1s7210.i1490-1498
+Downloaded file structures/pdb1s7210.i1490-1498.pdb
+pdb1s7210.i1459-1463
+Downloaded file structures/pdb1s7210.i1459-1463.pdb
+pdb1s7210.i1381-1384
+Downloaded file structures/pdb1s7210.i1381-1384.pdb
+pdb1s7210.i1385-1389
+Downloaded file structures/pdb1s7210.i1385-1389.pdb
+pdb1s7210.i1394-1398
+Downloaded file structures/pdb1s7210.i1394-1398.pdb
+pdb1s7210.i1406-1408
+Downloaded file structures/pdb1s7210.i1406-1408.pdb
+pdb1s7210.i141-146
+Downloaded file structures/pdb1s7210.i141-146.pdb
+pdb1s7210.i1413-1418
+Downloaded file structures/pdb1s7210.i1413-1418.pdb
+pdb1s7210.i1419-1424
+Downloaded file structures/pdb1s7210.i1419-1424.pdb
+pdb1s7210.i1425-1429
+Downloaded file structures/pdb1s7210.i1425-1429.pdb
+pdb1s7210.i1434-1436
+Downloaded file structures/pdb1s7210.i1434-1436.pdb
+pdb1s7210.i1444-1447
+Downloaded file structures/pdb1s7210.i1444-1447.pdb
+pdb1s7210.i1452-1458
+Downloaded file structures/pdb1s7210.i1452-1458.pdb
+pdb1s7210.i1643-1650
+Downloaded file structures/pdb1s7210.i1643-1650.pdb
+pdb1s7210.i2322-2333
+Downloaded file structures/pdb1s7210.i2322-2333.pdb
+pdb1s7210.i425-435
+Downloaded file structures/pdb1s7210.i425-435.pdb
+pdb1s7210.i598-600
+Downloaded file structures/pdb1s7210.i598-600.pdb
+pdb1s7210.i609-613
+Downloaded file structures/pdb1s7210.i609-613.pdb
+pdb1s7210.i626-629
+Downloaded file structures/pdb1s7210.i626-629.pdb
+pdb1s7210.i633-638
+Downloaded file structures/pdb1s7210.i633-638.pdb
+pdb1s7210.i650-653
+Downloaded file structures/pdb1s7210.i650-653.pdb
+pdb1s7210.i655-659
+Downloaded file structures/pdb1s7210.i655-659.pdb
+pdb1s7210.i671-675
+Downloaded file structures/pdb1s7210.i671-675.pdb
+pdb1s7210.i677-681
+Downloaded file structures/pdb1s7210.i677-681.pdb
+pdb1s7210.i68-72
+Downloaded file structures/pdb1s7210.i68-72.pdb
+pdb1s7210.i688-694
+Downloaded file structures/pdb1s7210.i688-694.pdb
+pdb1s7210.i697-701
+Downloaded file structures/pdb1s7210.i697-701.pdb
+pdb1s7210.i594-597
+Downloaded file structures/pdb1s7210.i594-597.pdb
+pdb1s7210.i588-591
+Downloaded file structures/pdb1s7210.i588-591.pdb
+pdb1s7210.i440-442
+Downloaded file structures/pdb1s7210.i440-442.pdb
+pdb1s7210.i443-459
+Downloaded file structures/pdb1s7210.i443-459.pdb
+pdb1s7210.i466-471
+Downloaded file structures/pdb1s7210.i466-471.pdb
+pdb1s7210.i472-483
+Downloaded file structures/pdb1s7210.i472-483.pdb
+pdb1s7210.i493-514
+Downloaded file structures/pdb1s7210.i493-514.pdb
+pdb1s7210.i522-531
+Downloaded file structures/pdb1s7210.i522-531.pdb
+pdb1s7210.i540-545
+Downloaded file structures/pdb1s7210.i540-545.pdb
+pdb1s7210.i550-553
+Downloaded file structures/pdb1s7210.i550-553.pdb
+pdb1s7210.i554-564
+Downloaded file structures/pdb1s7210.i554-564.pdb
+pdb1s7210.i57-63
+Downloaded file structures/pdb1s7210.i57-63.pdb
+pdb1s7210.i577-587
+Downloaded file structures/pdb1s7210.i577-587.pdb
+pdb1s7210.i713-717
+Downloaded file structures/pdb1s7210.i713-717.pdb
+pdb1s7210.i720-722
+Downloaded file structures/pdb1s7210.i720-722.pdb
+pdb1s7210.i860-864
+Downloaded file structures/pdb1s7210.i860-864.pdb
+pdb1s7210.i874-881
+Downloaded file structures/pdb1s7210.i874-881.pdb
+pdb1s7210.i886-895
+Downloaded file structures/pdb1s7210.i886-895.pdb
+pdb1s7210.i896-899
+Downloaded file structures/pdb1s7210.i896-899.pdb
+pdb1s7210.i904-909
+Downloaded file structures/pdb1s7210.i904-909.pdb
+pdb1s7210.i922-925
+Downloaded file structures/pdb1s7210.i922-925.pdb
+pdb1s7210.i930-934
+Downloaded file structures/pdb1s7210.i930-934.pdb
+pdb1s7210.i936-938
+Downloaded file structures/pdb1s7210.i936-938.pdb
+pdb1s7210.i946-951
+Downloaded file structures/pdb1s7210.i946-951.pdb
+pdb1s7210.i952-958
+Downloaded file structures/pdb1s7210.i952-958.pdb
+pdb1s7210.i959-962
+Downloaded file structures/pdb1s7210.i959-962.pdb
+pdb1s7210.i847-852
+Downloaded file structures/pdb1s7210.i847-852.pdb
+pdb1s7210.i843-845
+Downloaded file structures/pdb1s7210.i843-845.pdb
+pdb1s7210.i737-741
+Downloaded file structures/pdb1s7210.i737-741.pdb
+pdb1s7210.i753-756
+Downloaded file structures/pdb1s7210.i753-756.pdb
+pdb1s7210.i757-763
+Downloaded file structures/pdb1s7210.i757-763.pdb
+pdb1s7210.i768-774
+Downloaded file structures/pdb1s7210.i768-774.pdb
+pdb1s7210.i782-785
+Downloaded file structures/pdb1s7210.i782-785.pdb
+pdb1s7210.i787-792
+Downloaded file structures/pdb1s7210.i787-792.pdb
+pdb1s7210.i809-815
+Downloaded file structures/pdb1s7210.i809-815.pdb
+pdb1s7210.i817-822
+Downloaded file structures/pdb1s7210.i817-822.pdb
+pdb1s7210.i824-827
+Downloaded file structures/pdb1s7210.i824-827.pdb
+pdb1s7210.i828-830
+Downloaded file structures/pdb1s7210.i828-830.pdb
+pdb1s7210.i84-91
+Downloaded file structures/pdb1s7210.i84-91.pdb
+pdb1s7210.i96-100
+Downloaded file structures/pdb1s7210.i96-100.pdb
+pdb1s7210.i420-423
+Downloaded file structures/pdb1s7210.i420-423.pdb
+pdb1s7210.i2336-2339
+Downloaded file structures/pdb1s7210.i2336-2339.pdb
+pdb1s7210.i2478-2480
+Downloaded file structures/pdb1s7210.i2478-2480.pdb
+pdb1s7210.i2481-2486
+Downloaded file structures/pdb1s7210.i2481-2486.pdb
+pdb1s7210.i2504-2509
+Downloaded file structures/pdb1s7210.i2504-2509.pdb
+pdb1s7210.i2510-2513
+Downloaded file structures/pdb1s7210.i2510-2513.pdb
+pdb1s7210.i2514-2517
+Downloaded file structures/pdb1s7210.i2514-2517.pdb
+pdb1s7210.i252-258
+Downloaded file structures/pdb1s7210.i252-258.pdb
+pdb1s7210.i2536-2540
+Downloaded file structures/pdb1s7210.i2536-2540.pdb
+pdb1s7210.i2543-2546
+Downloaded file structures/pdb1s7210.i2543-2546.pdb
+pdb1s7210.i2581-2585
+Downloaded file structures/pdb1s7210.i2581-2585.pdb
+pdb1s7210.i2588-2592
+Downloaded file structures/pdb1s7210.i2588-2592.pdb
+pdb1s7210.i259-265
+Downloaded file structures/pdb1s7210.i259-265.pdb
+pdb1s7210.i2469-2476
+Downloaded file structures/pdb1s7210.i2469-2476.pdb
+pdb1s7210.i2458-2465
+Downloaded file structures/pdb1s7210.i2458-2465.pdb
+pdb1s7210.i2344-2353
+Downloaded file structures/pdb1s7210.i2344-2353.pdb
+pdb1s7210.i2355-2358
+Downloaded file structures/pdb1s7210.i2355-2358.pdb
+pdb1s7210.i2364-2368
+Downloaded file structures/pdb1s7210.i2364-2368.pdb
+pdb1s7210.i237-241
+Downloaded file structures/pdb1s7210.i237-241.pdb
+pdb1s7210.i2378-2382
+Downloaded file structures/pdb1s7210.i2378-2382.pdb
+pdb1s7210.i2388-2392
+Downloaded file structures/pdb1s7210.i2388-2392.pdb
+pdb1s7210.i2394-2404
+Downloaded file structures/pdb1s7210.i2394-2404.pdb
+pdb1s7210.i2408-2411
+Downloaded file structures/pdb1s7210.i2408-2411.pdb
+pdb1s7210.i2415-2418
+Downloaded file structures/pdb1s7210.i2415-2418.pdb
+pdb1s7210.i2438-2441
+Downloaded file structures/pdb1s7210.i2438-2441.pdb
+pdb1s7210.i2443-2446
+Downloaded file structures/pdb1s7210.i2443-2446.pdb
+pdb1s7210.i2610-2614
+Downloaded file structures/pdb1s7210.i2610-2614.pdb
+pdb1s7210.i2618-2622
+Downloaded file structures/pdb1s7210.i2618-2622.pdb
+pdb1s7210.i2759-2761
+Downloaded file structures/pdb1s7210.i2759-2761.pdb
+pdb1s7210.i2764-2767
+Downloaded file structures/pdb1s7210.i2764-2767.pdb
+pdb1s7210.i2769-2774
+Downloaded file structures/pdb1s7210.i2769-2774.pdb
+pdb1s7210.i294-301
+Downloaded file structures/pdb1s7210.i294-301.pdb
+pdb1s7210.i30-33
+Downloaded file structures/pdb1s7210.i30-33.pdb
+pdb1s7210.i314-316
+Downloaded file structures/pdb1s7210.i314-316.pdb
+pdb1s7210.i333-341
+Downloaded file structures/pdb1s7210.i333-341.pdb
+pdb1s7210.i34-41
+Downloaded file structures/pdb1s7210.i34-41.pdb
+pdb1s7210.i347-361
+Downloaded file structures/pdb1s7210.i347-361.pdb
+pdb1s7210.i366-368
+Downloaded file structures/pdb1s7210.i366-368.pdb
+pdb1s7210.i369-376
+Downloaded file structures/pdb1s7210.i369-376.pdb
+pdb1s7210.i2752-2756
+Downloaded file structures/pdb1s7210.i2752-2756.pdb
+pdb1s7210.i2728-2733
+Downloaded file structures/pdb1s7210.i2728-2733.pdb
+pdb1s7210.i2625-2627
+Downloaded file structures/pdb1s7210.i2625-2627.pdb
+pdb1s7210.i2631-2634
+Downloaded file structures/pdb1s7210.i2631-2634.pdb
+pdb1s7210.i2636-2641
+Downloaded file structures/pdb1s7210.i2636-2641.pdb
+pdb1s7210.i2661-2666
+Downloaded file structures/pdb1s7210.i2661-2666.pdb
+pdb1s7210.i2668-2670
+Downloaded file structures/pdb1s7210.i2668-2670.pdb
+pdb1s7210.i2673-2681
+Downloaded file structures/pdb1s7210.i2673-2681.pdb
+pdb1s7210.i2685-2693
+Downloaded file structures/pdb1s7210.i2685-2693.pdb
+pdb1s7210.i2694-2696
+Downloaded file structures/pdb1s7210.i2694-2696.pdb
+pdb1s7210.i2712-2717
+Downloaded file structures/pdb1s7210.i2712-2717.pdb
+pdb1s7210.i2719-2721
+Downloaded file structures/pdb1s7210.i2719-2721.pdb
+pdb1s7210.i272-288
+Downloaded file structures/pdb1s7210.i272-288.pdb
+pdb1s7210.i397-404
+Downloaded file structures/pdb1s7210.i397-404.pdb
+Downloaded 399 files out of 482
+83 files could not be downloaded

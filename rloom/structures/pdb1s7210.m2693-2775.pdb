@@ -1,0 +1,732 @@
+HEADER PDB1S7210.M2693-2775 RNA FPDB v0.09022008
+HEADER    RIBOSOME                                28-JAN-04   1S72              
+TITLE     REFINED CRYSTAL STRUCTURE OF THE HALOARCULA MARISMORTUI               
+TITLE    2 LARGE RIBOSOMAL SUBUNIT AT 2.4 ANGSTROM RESOLUTION                   
+REMARK   2 RESOLUTION. 2.40 ANGSTROMS.                                          
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: 23S RIBOSOMAL RNA;                                         
+COMPND   3 CHAIN: 0;                                                            
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: HALOARCULA MARISMORTUI;                         
+SOURCE   3 ORGANISM_COMMON: ARCHAEA;                                            
+REMARK 465       U 0     2                                                      
+REMARK 465       U 0     3                                                      
+REMARK 465       G 0     4                                                      
+REMARK 465       G 0     5                                                      
+REMARK 465       C 0     6                                                      
+REMARK 465       U 0     7                                                      
+REMARK 465       A 0     8                                                      
+REMARK 465       C 0     9                                                      
+REMARK 465       C 0   126                                                      
+REMARK 465       U 0   127                                                      
+REMARK 465       U 0   715                                                      
+REMARK 465       G 0   971                                                      
+REMARK 465       U 0   972                                                      
+REMARK 465       G 0   973                                                      
+REMARK 465       U 0   974                                                      
+REMARK 465       C 0   975                                                      
+REMARK 465       C 0   976                                                      
+REMARK 465       G 0   977                                                      
+REMARK 465       C 0   978                                                      
+REMARK 465       C 0   979                                                      
+REMARK 465       U 0   980                                                      
+REMARK 465       C 0   981                                                      
+REMARK 465       C 0   982                                                      
+REMARK 465       G 0   983                                                      
+REMARK 465       A 0   984                                                      
+REMARK 465       G 0   985                                                      
+REMARK 465       A 0   986                                                      
+REMARK 465       G 0   987                                                      
+REMARK 465       G 0   988                                                      
+REMARK 465       A 0   989                                                      
+REMARK 465       G 0   990                                                      
+REMARK 465       U 0   991                                                      
+REMARK 465       C 0   992                                                      
+REMARK 465       G 0   993                                                      
+REMARK 465       G 0   994                                                      
+REMARK 465       C 0   995                                                      
+REMARK 465       A 0   996                                                      
+REMARK 465       C 0   997                                                      
+REMARK 465       A 0   998                                                      
+REMARK 465       U 0  1560                                                      
+REMARK 465       U 0  1952                                                      
+REMARK 465       A 0  1953                                                      
+REMARK 465       A 0  1954                                                      
+REMARK 465       C 0  1955                                                      
+REMARK 465       U 0  1956                                                      
+REMARK 465       A 0  1957                                                      
+REMARK 465       U 0  1958                                                      
+REMARK 465       G 0  1959                                                      
+REMARK 465       A 0  1960                                                      
+REMARK 465       C 0  1961                                                      
+REMARK 465       C 0  1962                                                      
+REMARK 465       C 0  1963                                                      
+REMARK 465       A 0  2137                                                      
+REMARK 465       C 0  2138                                                      
+REMARK 465       G 0  2139                                                      
+REMARK 465       U 0  2140                                                      
+REMARK 465       G 0  2141                                                      
+REMARK 465       G 0  2142                                                      
+REMARK 465       U 0  2143                                                      
+REMARK 465       C 0  2144                                                      
+REMARK 465       G 0  2145                                                      
+REMARK 465       C 0  2146                                                      
+REMARK 465       C 0  2147                                                      
+REMARK 465       G 0  2148                                                      
+REMARK 465       A 0  2149                                                      
+REMARK 465       U 0  2150                                                      
+REMARK 465       G 0  2151                                                      
+REMARK 465       U 0  2152                                                      
+REMARK 465       G 0  2153                                                      
+REMARK 465       C 0  2154                                                      
+REMARK 465       A 0  2155                                                      
+REMARK 465       G 0  2156                                                      
+REMARK 465       C 0  2157                                                      
+REMARK 465       A 0  2158                                                      
+REMARK 465       U 0  2159                                                      
+REMARK 465       A 0  2160                                                      
+REMARK 465       G 0  2161                                                      
+REMARK 465       G 0  2162                                                      
+REMARK 465       U 0  2163                                                      
+REMARK 465       A 0  2164                                                      
+REMARK 465       G 0  2165                                                      
+REMARK 465       G 0  2166                                                      
+REMARK 465       A 0  2167                                                      
+REMARK 465       G 0  2168                                                      
+REMARK 465       A 0  2169                                                      
+REMARK 465       C 0  2170                                                      
+REMARK 465       A 0  2171                                                      
+REMARK 465       C 0  2172                                                      
+REMARK 465       U 0  2173                                                      
+REMARK 465       A 0  2174                                                      
+REMARK 465       C 0  2175                                                      
+REMARK 465       A 0  2176                                                      
+REMARK 465       C 0  2177                                                      
+REMARK 465       A 0  2178                                                      
+REMARK 465       G 0  2179                                                      
+REMARK 465       G 0  2180                                                      
+REMARK 465       U 0  2181                                                      
+REMARK 465       A 0  2182                                                      
+REMARK 465       C 0  2183                                                      
+REMARK 465       C 0  2184                                                      
+REMARK 465       C 0  2185                                                      
+REMARK 465       G 0  2186                                                      
+REMARK 465       C 0  2187                                                      
+REMARK 465       G 0  2188                                                      
+REMARK 465       C 0  2189                                                      
+REMARK 465       U 0  2190                                                      
+REMARK 465       A 0  2191                                                      
+REMARK 465       G 0  2192                                                      
+REMARK 465       C 0  2193                                                      
+REMARK 465       G 0  2194                                                      
+REMARK 465       G 0  2195                                                      
+REMARK 465       G 0  2196                                                      
+REMARK 465       C 0  2197                                                      
+REMARK 465       C 0  2198                                                      
+REMARK 465       A 0  2199                                                      
+REMARK 465       C 0  2200                                                      
+REMARK 465       C 0  2201                                                      
+REMARK 465       G 0  2202                                                      
+REMARK 465       A 0  2203                                                      
+REMARK 465       G 0  2204                                                      
+REMARK 465       U 0  2205                                                      
+REMARK 465       C 0  2206                                                      
+REMARK 465       A 0  2207                                                      
+REMARK 465       A 0  2208                                                      
+REMARK 465       C 0  2209                                                      
+REMARK 465       A 0  2210                                                      
+REMARK 465       G 0  2211                                                      
+REMARK 465       U 0  2212                                                      
+REMARK 465       G 0  2213                                                      
+REMARK 465       A 0  2214                                                      
+REMARK 465       A 0  2215                                                      
+REMARK 465       A 0  2216                                                      
+REMARK 465       U 0  2217                                                      
+REMARK 465       A 0  2218                                                      
+REMARK 465       C 0  2219                                                      
+REMARK 465       U 0  2220                                                      
+REMARK 465       A 0  2221                                                      
+REMARK 465       C 0  2222                                                      
+REMARK 465       C 0  2223                                                      
+REMARK 465       C 0  2224                                                      
+REMARK 465       G 0  2225                                                      
+REMARK 465       U 0  2226                                                      
+REMARK 465       C 0  2227                                                      
+REMARK 465       G 0  2228                                                      
+REMARK 465       G 0  2229                                                      
+REMARK 465       U 0  2230                                                      
+REMARK 465       G 0  2231                                                      
+REMARK 465       A 0  2232                                                      
+REMARK 465       C 0  2233                                                      
+REMARK 465       U 0  2234                                                      
+REMARK 465       G 0  2235                                                      
+REMARK 465       C 0  2236                                                      
+REMARK 465       A 0  2339                                                      
+REMARK 465       C 0  2340                                                      
+REMARK 465       A 0  2341                                                      
+REMARK 465       G 0  2342                                                      
+REMARK 465       A 0  2343                                                      
+REMARK 465       A 0  2665                                                      
+REMARK 465       U 0  2666                                                      
+REMARK 465       A 0  2915                                                      
+REMARK 465       G 0  2916                                                      
+REMARK 465       C 0  2917                                                      
+REMARK 465       C 0  2918                                                      
+REMARK 465       A 0  2919                                                      
+REMARK 465       U 0  2920                                                      
+REMARK 465       C 0  2921                                                      
+REMARK 465       A 0  2922                                                      
+REMARK 465       U 0  2923                                                      
+SEQRES   1 0 2922    U   U   G   G   C   U   A   C   U   A   U   G   C          
+SEQRES   2 0 2922    C   A   G   C   U   G   G   U   G   G   A   U   U          
+SEQRES   3 0 2922    G   C   U   C   G   G   C   U   C   A   G   G   C          
+SEQRES   4 0 2922    G   C   U   G   A   U   G   A   A   G   G   A   C          
+SEQRES   5 0 2922    G   U   G   C   C   A   A   G   C   U   G   C   G          
+SEQRES   6 0 2922    A   U   A   A   G   C   C   A   U   G   G   G   G          
+SEQRES   7 0 2922    A   G   C   C   G   C   A   C   G   G   A   G   G          
+SEQRES   8 0 2922    C   G   A   A   G   A   A   C   C   A   U   G   G          
+SEQRES   9 0 2922    A   U   U   U   C   C   G   A   A   U   G   A   G          
+SEQRES  10 0 2922    A   A   U   C   U   C   U   C   U   A   A   C   A          
+SEQRES  11 0 2922    A   U   U   G   C   U   U   C   G   C   G   C   A          
+SEQRES  12 0 2922    A   U   G   A   G   G   A   A   C   C   C   C   G          
+SEQRES  13 0 2922    A   G   A   A   C   U   G   A   A   A   C   A   U          
+SEQRES  14 0 2922    C   U   C   A   G   U   A   U   C   G   G   G   A          
+SEQRES  15 0 2922    G   G   A   A   C   A   G   A   A   A   A   C   G          
+SEQRES  16 0 2922    C   A   A   U   G   U   G   A   U   G   U   C   G          
+SEQRES  17 0 2922    U   U   A   G   U   A   A   C   C   G   C   G   A          
+SEQRES  18 0 2922    G   U   G   A   A   C   G   C   G   A   U   A   C          
+SEQRES  19 0 2922    A   G   C   C   C   A   A   A   C   C   G   A   A          
+SEQRES  20 0 2922    G   C   C   C   U   C   A   C   G   G   G   C   A          
+SEQRES  21 0 2922    A   U   G   U   G   G   U   G   U   C   A   G   G          
+SEQRES  22 0 2922    G   C   U   A   C   C   U   C   U   C   A   U   C          
+SEQRES  23 0 2922    A   G   C   C   G   A   C   C   G   U   C   U   C          
+SEQRES  24 0 2922    G   A   C   G   A   A   G   U   C   U   C   U   U          
+SEQRES  25 0 2922    G   G   A   A   C   A   G   A   G   C   G   U   G          
+SEQRES  26 0 2922    A   U   A   C   A   G   G   G   U   G   A   C   A          
+SEQRES  27 0 2922    A   C   C   C   C   G   U   A   C   U   C   G   A          
+SEQRES  28 0 2922    G   A   C   C   A   G   U   A   C   G   A   C   G          
+SEQRES  29 0 2922    U   G   C   G   G   U   A   G   U   G   C   C   A          
+SEQRES  30 0 2922    G   A   G   U   A   G   C   G   G   G   G   G   U          
+SEQRES  31 0 2922    U   G   G   A   U   A   U   C   C   C   U   C   G          
+SEQRES  32 0 2922    C   G   A   A   U   A   A   C   G   C   A   G   G          
+SEQRES  33 0 2922    C   A   U   C   G   A   C   U   G   C   G   A   A          
+SEQRES  34 0 2922    G   G   C   U   A   A   A   C   A   C   A   A   C          
+SEQRES  35 0 2922    C   U   G   A   G   A   C   C   G   A   U   A   G          
+SEQRES  36 0 2922    U   G   A   A   C   A   A   G   U   A   G   U   G          
+SEQRES  37 0 2922    U   G   A   A   C   G   A   A   C   G   C   U   G          
+SEQRES  38 0 2922    C   A   A   A   G   U   A   C   C   C   U   C   A          
+SEQRES  39 0 2922    G   A   A   G   G   G   A   G   G   C   G   A   A          
+SEQRES  40 0 2922    A   U   A   G   A   G   C   A   U   G   A   A   A          
+SEQRES  41 0 2922    U   C   A   G   U   U   G   G   C   G   A   U   C          
+SEQRES  42 0 2922    G   A   G   C   G   A   C   A   G   G   G   C   A          
+SEQRES  43 0 2922    U   A   C   A   A   G   G   U   C   C   C   U   C          
+SEQRES  44 0 2922    G   A   C   G   A   A   U   G   A   C   C   G   A          
+SEQRES  45 0 2922    C   G   C   G   C   G   A   G   C   G   U   C   C          
+SEQRES  46 0 2922    A   G   U   A   A   G   A   C   U   C   A   C   G          
+SEQRES  47 0 2922    G   G   A   A   G   C   C   G   A   U   G   U   U          
+SEQRES  48 0 2922    C   U   G   U   C   G   U   A   C   G   U   U   U          
+SEQRES  49 0 2922    U   G 1MA   A   A   A   A   C   G   A   G   C   C          
+SEQRES  50 0 2922    A   G   G   G   A   G   U   G   U   G   U   C   U          
+SEQRES  51 0 2922    G   C   A   U   G   G   C   A   A   G   U   C   U          
+SEQRES  52 0 2922    A   A   C   C   G   G   A   G   U   A   U   C   C          
+SEQRES  53 0 2922    G   G   G   G   A   G   G   C   A   C   A   G   G          
+SEQRES  54 0 2922    G   A   A   A   C   C   G   A   C   A   U   G   G          
+SEQRES  55 0 2922    C   C   G   C   A   G   G   G   C   U   U   U   G          
+SEQRES  56 0 2922    C   C   C   G   A   G   G   G   C   C   G   C   C          
+SEQRES  57 0 2922    G   U   C   U   U   C   A   A   G   G   G   C   G          
+SEQRES  58 0 2922    G   G   G   A   G   C   C   A   U   G   U   G   G          
+SEQRES  59 0 2922    A   C   A   C   G   A   C   C   C   G   A   A   U          
+SEQRES  60 0 2922    C   C   G   G   A   C   G   A   U   C   U   A   C          
+SEQRES  61 0 2922    G   C   A   U   G   G   A   C   A   A   G   A   U          
+SEQRES  62 0 2922    G   A   A   G   C   G   U   G   C   C   G   A   A          
+SEQRES  63 0 2922    A   G   G   C   A   C   G   U   G   G   A   A   G          
+SEQRES  64 0 2922    U   C   U   G   U   U   A   G   A   G   U   U   G          
+SEQRES  65 0 2922    G   U   G   U   C   C   U   A   C   A   A   U   A          
+SEQRES  66 0 2922    C   C   C   U   C   U   C   G   U   G   A   U   C          
+SEQRES  67 0 2922    U   A   U   G   U   G   U   A   G   G   G   G   U          
+SEQRES  68 0 2922    G   A   A   A   G   G   C   C   C   A   U   C   G          
+SEQRES  69 0 2922    A   G   U   C   C   G   G   C   A   A   C   A   G          
+SEQRES  70 0 2922    C   U   G   G   U   U   C   C   A   A   U   C   G          
+SEQRES  71 0 2922    A   A   A   C   A   U   G   U   C   G   A   A   G          
+SEQRES  72 0 2922    C   A   U   G   A   C   C   U   C   C   G   C   C          
+SEQRES  73 0 2922    G   A   G   G   U   A   G   U   C   U   G   U   G          
+SEQRES  74 0 2922    A   G   G   U   A   G   A   G   C   G   A   C   C          
+SEQRES  75 0 2922    G   A   U   U   G   G   U   G   U   G   U   C   C          
+SEQRES  76 0 2922    G   C   C   U   C   C   G   A   G   A   G   G   A          
+SEQRES  77 0 2922    G   U   C   G   G   C   A   C   A   C   C   U   G          
+SEQRES  78 0 2922    U   C   A   A   A   C   U   C   C   A   A   A   C          
+SEQRES  79 0 2922    U   U   A   C   A   G   A   C   G   C   C   G   U          
+SEQRES  80 0 2922    U   U   G   A   C   G   C   G   G   G   G   A   U          
+SEQRES  81 0 2922    U   C   C   G   G   U   G   C   G   C   G   G   G          
+SEQRES  82 0 2922    G   U   A   A   G   C   C   U   G   U   G   U   A          
+SEQRES  83 0 2922    C   C   A   G   G   A   G   G   G   G   A   A   C          
+SEQRES  84 0 2922    A   A   C   C   C   A   G   A   G   A   U   A   G          
+SEQRES  85 0 2922    G   U   U   A   A   G   G   U   C   C   C   C   A          
+SEQRES  86 0 2922    A   G   U   G   U   G   G   A   U   U   A   A   G          
+SEQRES  87 0 2922    U   G   U   A   A   U   C   C   U   C   U   G   A          
+SEQRES  88 0 2922    A   G   G   U   G   G   U   C   U   C   G   A   G          
+SEQRES  89 0 2922    C   C   C   U   A   G   A   C   A   G   C   C   G          
+SEQRES  90 0 2922    G   G   A   G   G   U   G   A   G   C   U   U   A          
+SEQRES  91 0 2922    G   A   A   G   C   A   G   C   U   A   C   C   C          
+SEQRES  92 0 2922    U   C   U   A   A   G   A   A   A   A   G   C   G          
+SEQRES  93 0 2922    U   A   A   C   A   G   C   U   U   A   C   C   G          
+SEQRES  94 0 2922    G   C   C   G   A   G   G   U   U   U   G   A   G          
+SEQRES  95 0 2922    G   C   G   C   C   C   A   A   A   A   U   G   A          
+SEQRES  96 0 2922    U   C   G   G   G   A   C   U   C   A   A   A   U          
+SEQRES  97 0 2922    C   C   A   C   C   A   C   C   G   A   G   A   C          
+SEQRES  98 0 2922    C   U   G   U   C   C   G   U   A   C   C   A   C          
+SEQRES  99 0 2922    U   C   A   U   A   C   U   G   G   U   A   A   U          
+SEQRES  10 0 2922    C   G   A   G   U   A   G   A   U   U   G   G   C          
+SEQRES  10 0 2922    G   C   U   C   U   A   A   U   U   G   G   A   U          
+SEQRES  10 0 2922    G   G   A   A   G   U   A   G   G   G   G   U   G          
+SEQRES  10 0 2922    A   A   A   A   C   U   C   C   U   A   U   G   G          
+SEQRES  10 0 2922    A   C   C   G   A   U   U   A   G   U   G   A   C          
+SEQRES  10 0 2922    G   A   A   A   A   U   C   C   U   G   G   C   C          
+SEQRES  10 0 2922    A   U   A   G   U   A   G   C   A   G   C   G   A          
+SEQRES  10 0 2922    U   A   G   U   C   G   G   G   U   G   A   G   A          
+SEQRES  10 0 2922    A   C   C   C   C   G   A   C   G   G   C   C   U          
+SEQRES  10 0 2922    A   A   U   G   G   A   U   A   A   G   G   G   U          
+SEQRES  11 0 2922    U   C   C   U   C   A   G   C   A   C   U   G   C          
+SEQRES  11 0 2922    U   G   A   U   C   A   G   C   U   G   A   G   G          
+SEQRES  11 0 2922    G   U   U   A   G   C   C   G   G   U   C   C   U          
+SEQRES  11 0 2922    A   A   G   U   C   A   U   A   C   C   G   C   A          
+SEQRES  11 0 2922    A   C   U   C   G   A   C   U   A   U   G   A   C          
+SEQRES  11 0 2922    G   A   A   A   U   G   G   G   A   A   A   C   G          
+SEQRES  11 0 2922    G   G   U   U   A   A   U   A   U   U   C   C   C          
+SEQRES  11 0 2922    G   U   G   C   C   A   C   U   A   U   G   C   A          
+SEQRES  11 0 2922    G   U   G   A   A   A   G   U   U   G   A   C   G          
+SEQRES  11 0 2922    C   C   C   U   G   G   G   G   U   C   G   A   U          
+SEQRES  12 0 2922    C   A   C   G   C   U   G   G   G   C   A   U   U          
+SEQRES  12 0 2922    C   G   C   C   C   A   G   U   C   G   A   A   C          
+SEQRES  12 0 2922    C   G   U   C   C   A   A   C   U   C   C   G   U          
+SEQRES  12 0 2922    G   G   A   A   G   C   C   G   U   A   A   U   G          
+SEQRES  12 0 2922    G   C   A   G   G   A   A   G   C   G   G   A   C          
+SEQRES  12 0 2922    G   A   A   C   G   G   C   G   G   C   A   U   A          
+SEQRES  12 0 2922    G   G   G   A   A   A   C   G   U   G   A   U   U          
+SEQRES  12 0 2922    C   A   A   C   C   U   G   G   G   G   C   C   C          
+SEQRES  12 0 2922    A   U   G   A   A   A   A   G   A   C   G   A   G          
+SEQRES  12 0 2922    C   A   U   A   G   U   G   U   C   C   G   U   A          
+SEQRES  13 0 2922    C   C   G   A   G   A   A   C   C   G   A   C   A          
+SEQRES  13 0 2922    C   A   G   G   U   G   U   C   C   A   U   G   G          
+SEQRES  13 0 2922    C   G   G   C   G   A   A   A   G   C   C   A   A          
+SEQRES  13 0 2922    G   G   C   C   U   G   U   C   G   G   G   A   G          
+SEQRES  13 0 2922    C   A   A   C   C   A   A   C   G   U   U   A   G          
+SEQRES  13 0 2922    G   G   A   A   U   U   C   G   G   C   A   A   G          
+SEQRES  13 0 2922    U   U   A   G   U   C   C   C   G   U   A   C   C          
+SEQRES  13 0 2922    U   U   C   G   G   A   A   G   A   A   G   G   G          
+SEQRES  13 0 2922    A   U   G   C   C   U   G   C   U   C   C   G   G          
+SEQRES  13 0 2922    A   A   C   G   G   A   G   C   A   G   G   U   C          
+SEQRES  14 0 2922    G   C   A   G   U   G   A   C   U   C   G   G   A          
+SEQRES  14 0 2922    A   G   C   U   C   G   G   A   C   U   G   U   C          
+SEQRES  14 0 2922    U   A   G   U   A   A   C   A   A   C   A   U   A          
+SEQRES  14 0 2922    G   G   U   G   A   C   C   G   C   A   A   A   U          
+SEQRES  14 0 2922    C   C   G   C   A   A   G   G   A   C   U   C   G          
+SEQRES  14 0 2922    U   A   C   G   G   U   C   A   C   U   G   A   A          
+SEQRES  14 0 2922    U   C   C   U   G   C   C   C   A   G   U   G   C          
+SEQRES  14 0 2922    A   G   G   U   A   U   C   U   G   A   A   C   A          
+SEQRES  14 0 2922    C   C   U   C   G   U   A   C   A   A   G   A   G          
+SEQRES  14 0 2922    G   A   C   G   A   A   G   G   A   C   C   U   G          
+SEQRES  15 0 2922    U   C   A   A   C   G   G   C   G   G   G   G   G          
+SEQRES  15 0 2922    U   A   A   C   U   A   U   G   A   C   C   C   U          
+SEQRES  15 0 2922    C   U   U   A   A   G   G   U   A   G   C   G   U          
+SEQRES  15 0 2922    A   G   U   A   C   C   U   U   G   C   C   G   C          
+SEQRES  15 0 2922    A   U   C   A   G   U   A   G   C   G   G   C   U          
+SEQRES  15 0 2922    U   G   C   A   U   G   A   A   U   G   G   A   U          
+SEQRES  15 0 2922    U   A   A   C   C   A   G   A   G   C   U   U   C          
+SEQRES  15 0 2922    A   C   U   G   U   C   C   C   A   A   C   G   U          
+SEQRES  15 0 2922    U   G   G   G   C   C   C   G   G   U   G   A   A          
+SEQRES  15 0 2922    C   U   G   U   A   C   A   U   U   C   C   A   G          
+SEQRES  16 0 2922    U   G   C   G   G   A   G   U   C   U   G   G   A          
+SEQRES  16 0 2922    G   A   C   A   C   C   C   A   G   G   G   G   G          
+SEQRES  16 0 2922    A   A   G   C   G   A   A   G   A   C   C   C   U          
+SEQRES  16 0 2922    A   U   G   G   A   G   C   U   U   U   A   C   U          
+SEQRES  16 0 2922    G   C   A   G   G   C   U   G   U   C   G   C   U          
+SEQRES  16 0 2922    G   A   G   A   C   G   U   G   G   U   C   G   C          
+SEQRES  16 0 2922    C   G   A   U   G   U   G   C   A   G   C   A   U          
+SEQRES  16 0 2922    A   G   G   U   A   G   G   A   G   A   C   A   C          
+SEQRES  16 0 2922    U   A   C   A   C   A   G   G   U   A   C   C   C          
+SEQRES  16 0 2922    G   C   G   C   U   A   G   C   G   G   G   C   C          
+SEQRES  17 0 2922    A   C   C   G   A   G   U   C   A   A   C   A   G          
+SEQRES  17 0 2922    U   G   A   A   A   U   A   C   U   A   C   C   C          
+SEQRES  17 0 2922    G   U   C   G   G   U   G   A   C   U   G   C   G          
+SEQRES  17 0 2922    A   C   U   C   U   C   A   C   U   C   C   G   G          
+SEQRES  17 0 2922    G   A   G   G   A   G   G   A   C   A   C   C   G          
+SEQRES  17 0 2922    A   U   A   G   C   C   G   G   G   C   A   G   U          
+SEQRES  17 0 2922    U   U   G   A   C   U   G   G   G   G   C   G   G          
+SEQRES  17 0 2922    U   A   C   G   C   G   C   U   C   G   A   A   A          
+SEQRES  17 0 2922    A   G   A   U   A   U   C   G   A   G   C   G   C          
+SEQRES  17 0 2922    G   C   C   C   U   A   U   G   G   C   U   A   U          
+SEQRES  18 0 2922    C   U   C   A   G   C   C   G   G   G   A   C   A          
+SEQRES  18 0 2922    G   A   G   A   C   C   C   G   G   C   G   A   A          
+SEQRES  18 0 2922    G   A   G   U   G   C   A   A   G   A   G   C   A          
+SEQRES  18 0 2922    A   A   A   G   A   U   A   G   C   U   U   G   A          
+SEQRES  18 0 2922    C   A   G   U   G   U   U   C   U   U   C   C   C          
+SEQRES  18 0 2922    A   A   C   G   A   G   G   A   A   C   G   C   U          
+SEQRES  18 0 2922    G   A   C   G   C   G   A   A   A   G   C   G   U          
+SEQRES  18 0 2922    G   G   U   C   U   A   G   C   G   A   A   C   C          
+SEQRES  18 0 2922    A   A   U   U   A   G   C   C   U   G   C   U   U          
+SEQRES  18 0 2922    G   A   U   G   C   G   G   G   C   A   A   U   U          
+SEQRES  19 0 2922    G   A   U   G   A   C   A   G   A   A   A   A   G          
+SEQRES  19 0 2922    C   U   A   C   C   C   U   A   G   G   G   A   U          
+SEQRES  19 0 2922    A   A   C   A   G   A   G   U   C   G   U   C   A          
+SEQRES  19 0 2922    C   U   C   G   C   A   A   G   A   G   C   A   C          
+SEQRES  19 0 2922    A   U   A   U   C   G   A   C   C   G   A   G   U          
+SEQRES  19 0 2922    G   G   C   U   U   G   C   U   A   C   C   U   C          
+SEQRES  19 0 2922    G   A   U   G   U   C   G   G   U   U   C   C   C          
+SEQRES  19 0 2922    U   C   C   A   U   C   C   U   G   C   C   C   G          
+SEQRES  19 0 2922    U   G   C   A   G   A   A   G   C   G   G   G   C          
+SEQRES  19 0 2922    A   A   G   G   G   U   G   A   G   G   U OMU OMG          
+SEQRES  20 0 2922    U   U   C   G   C   C   U   A   U   U   A   A   A          
+SEQRES  20 0 2922    G   G   A   G   G   U   C   G   U   G   A   G   C          
+SEQRES  20 0 2922    U   G   G   G UR3   U PSU   A   G   A   C   C   G          
+SEQRES  20 0 2922    U   C   G   U   G   A   G   A   C   A   G   G   U          
+SEQRES  20 0 2922    C   G   G   C   U   G   C   U   A   U   C   U   A          
+SEQRES  20 0 2922    C   U   G   G   G   U   G   U   G   U   A   A   U          
+SEQRES  20 0 2922    G   G   U   G   U   C   U   G   A   C   A   A   G          
+SEQRES  20 0 2922    A   A   C   G   A   C   C   G   U   A   U   A   G          
+SEQRES  20 0 2922    U   A   C   G   A   G   A   G   G   A   A   C   U          
+SEQRES  20 0 2922    A   C   G   G   U   U   G   G   U   G   G   C   C          
+SEQRES  21 0 2922    A   C   U   G   G   U   G   U   A   C   C   G   G          
+SEQRES  21 0 2922    U   U   G   U   U   C   G   A   G   A   G   A   G          
+SEQRES  21 0 2922    C   A   C   G   U   G   C   C   G   G   G   U   A          
+SEQRES  21 0 2922    G   C   C   A   C   G   C   C   A   C   A   C   G          
+SEQRES  21 0 2922    G   G   G   U   A   A   G   A   G   C   U   G   A          
+SEQRES  21 0 2922    A   C   G   C   A   U   C   U   A   A   G   C   U          
+SEQRES  21 0 2922    C   G   A   A   A   C   C   C   A   C   U   U   G          
+SEQRES  21 0 2922    G   A   A   A   A   G   A   G   A   C   A   C   C          
+SEQRES  21 0 2922    G   C   C   G   A   G   G   U   C   C   C   G   C          
+SEQRES  21 0 2922    G   U   A   C   A   A   G   A   C   G   C   G   G          
+SEQRES  22 0 2922    U   C   G   A   U   A   G   A   C   U   C   G   G          
+SEQRES  22 0 2922    G   G   U   G   U   G   C   G   C   G   U   C   G          
+SEQRES  22 0 2922    A   G   G   U   A   A   C   G   A   G   A   C   G          
+SEQRES  22 0 2922    U   U   A   A   G   C   C   C   A   C   G   A   G          
+SEQRES  22 0 2922    C   A   C   U   A   A   C   A   G   A   C   C   A          
+SEQRES  22 0 2922    A   A   G   C   C   A   U   C   A   U                      
+REMARK 300 MODIFIED BASE  617 1MA A
+REMARK 300 MODIFIED BASE 2429 OMU U
+REMARK 300 MODIFIED BASE 2430 OMG G
+REMARK 300 MODIFIED BASE 2461 UR3 U
+REMARK 300 MODIFIED BASE 2463 PSU U
+REMARK 300 ANCHORS 2694     : 2774    
+REMARK 300 ANCHORS 2696     : 2712    
+REMARK 300 ANCHORS 2717     : 2769    
+REMARK 300 PSTR U-CCGU-CGAU
+ATOM      1   C4   U     1      25.768 170.119 114.929  1.00 57.48           C  
+ATOM      2   N3   U     1      25.632 169.724 113.611  1.00 57.28           N  
+ATOM      3  OP1   U     1      30.031 165.075 118.710  1.00 60.71           O  
+ATOM      4  OP2   U     1      28.540 167.166 118.850  1.00 59.73           O  
+ATOM      5   C2   U     1      25.951 168.500 113.076  1.00 58.96           C  
+ATOM      6  O5'   U     1      28.532 165.762 116.818  1.00 60.31           O  
+ATOM      7  C3'   U     1      29.092 165.861 113.905  1.00 63.59           C  
+ATOM      8  C1'   U     1      26.815 166.242 113.461  1.00 62.12           C  
+ATOM      9  O4'   U     1      26.912 165.326 114.546  1.00 61.89           O  
+ATOM     10  C5'   U     1      28.616 164.543 116.063  1.00 60.73           C  
+ATOM     11    P   U     1      28.755 165.765 118.395  1.00 59.66           P  
+ATOM     12  C4'   U     1      28.265 164.800 114.618  1.00 62.33           C  
+ATOM     13  C2'   U     1      28.173 166.251 112.759  1.00 63.48           C  
+ATOM     14  O2'   U     1      28.170 165.293 111.719  1.00 64.46           O  
+ATOM     15   N1   U     1      26.454 167.573 113.982  1.00 60.65           N  
+ATOM     16   O4   U     1      25.472 171.274 115.250  1.00 55.14           O  
+ATOM     17   O2   U     1      25.807 168.256 111.888  1.00 60.28           O  
+ATOM     18   C6   U     1      26.610 167.901 115.315  1.00 59.14           C  
+ATOM     19   C5   U     1      26.294 169.109 115.804  1.00 58.76           C  
+ATOM     20  O3'   U     1      30.351 165.382 113.443  1.00 65.15           O  
+ATOM     21   C2   C     2      28.280 172.241 111.419  1.00 67.14           C  
+ATOM     22  OP1   C     2      32.695 165.655 112.633  1.00 66.63           O  
+ATOM     23  OP2   C     2      31.793 167.119 114.540  1.00 67.61           O  
+ATOM     24   C4   C     2      28.367 172.387 113.740  1.00 67.03           C  
+ATOM     25  O5'   C     2      31.020 167.483 112.201  1.00 66.27           O  
+ATOM     26  C3'   C     2      31.108 169.576 110.058  1.00 65.75           C  
+ATOM     27  C1'   C     2      28.830 170.126 110.253  1.00 66.27           C  
+ATOM     28  O4'   C     2      29.001 168.744 110.551  1.00 66.48           O  
+ATOM     29  C5'   C     2      30.796 167.117 110.829  1.00 65.84           C  
+ATOM     30    P   C     2      31.572 166.414 113.251  1.00 67.89           P  
+ATOM     31   O2   C     2      28.084 172.745 110.296  1.00 66.49           O  
+ATOM     32  C4'   C     2      30.285 168.299 110.033  1.00 66.02           C  
+ATOM     33  C2'   C     2      30.100 170.588 109.540  1.00 65.62           C  
+ATOM     34  O2'   C     2      29.915 170.513 108.143  1.00 66.63           O  
+ATOM     35   N1   C     2      28.657 170.885 111.504  1.00 66.81           N  
+ATOM     36   N3   C     2      28.145 172.962 112.556  1.00 66.63           N  
+ATOM     37   N4   C     2      28.228 173.140 114.836  1.00 67.53           N  
+ATOM     38   C6   C     2      28.871 170.306 112.725  1.00 66.86           C  
+ATOM     39   C5   C     2      28.743 171.014 113.856  1.00 66.88           C  
+ATOM     40  O3'   C     2      32.252 169.539 109.220  1.00 64.94           O  
+ATOM     41   C2   C     3      31.163 175.127 113.818  1.00 53.00           C  
+ATOM     42  OP1   C     3      34.338 170.572 108.338  1.00 66.06           O  
+ATOM     43  OP2   C     3      34.124 169.964 110.821  1.00 62.62           O  
+ATOM     44   C4   C     3      31.570 173.228 115.101  1.00 51.43           C  
+ATOM     45  O5'   C     3      32.894 171.907 109.866  1.00 60.87           O  
+ATOM     46  C3'   C     3      33.191 174.872 110.037  1.00 56.08           C  
+ATOM     47  C1'   C     3      31.216 175.023 111.326  1.00 54.74           C  
+ATOM     48  O4'   C     3      31.029 174.022 110.334  1.00 56.42           O  
+ATOM     49  C5'   C     3      32.419 172.748 108.800  1.00 57.86           C  
+ATOM     50    P   C     3      33.514 170.469 109.569  1.00 64.01           P  
+ATOM     51   O2   C     3      30.897 176.334 113.716  1.00 55.12           O  
+ATOM     52  C4'   C     3      32.073 174.126 109.328  1.00 56.69           C  
+ATOM     53  C2'   C     3      32.420 175.868 110.896  1.00 55.66           C  
+ATOM     54  O2'   C     3      31.965 176.986 110.156  1.00 55.18           O  
+ATOM     55   N1   C     3      31.365 174.366 112.648  1.00 53.69           N  
+ATOM     56   N3   C     3      31.270 174.526 115.026  1.00 51.31           N  
+ATOM     57   N4   C     3      31.644 172.672 116.315  1.00 49.29           N  
+ATOM     58   C6   C     3      31.689 173.038 112.744  1.00 52.53           C  
+ATOM     59   C5   C     3      31.802 172.437 113.936  1.00 51.26           C  
+ATOM     60  O3'   C     3      34.056 175.517 109.107  1.00 55.95           O  
+ATOM     61  OP1   G     4      32.931 179.271 127.408  1.00 45.89           O  
+ATOM     62  OP2   G     4      32.572 176.996 126.265  1.00 42.15           O  
+ATOM     63  C3'   G     4      32.271 180.754 122.640  1.00 49.64           C  
+ATOM     64  C1'   G     4      33.567 179.503 121.117  1.00 48.65           C  
+ATOM     65  C5'   G     4      33.819 180.257 124.642  1.00 46.58           C  
+ATOM     66   O6   G     4      31.265 174.357 119.073  1.00 49.17           O  
+ATOM     67  O4'   G     4      34.246 179.552 122.362  1.00 49.07           O  
+ATOM     68   C8   G     4      32.840 177.189 121.875  1.00 48.90           C  
+ATOM     69   C2   G     4      32.183 177.451 117.565  1.00 48.31           C  
+ATOM     70   C6   G     4      31.698 175.517 118.996  1.00 48.34           C  
+ATOM     71   C5   G     4      32.199 176.340 120.034  1.00 47.53           C  
+ATOM     72   C4   G     4      32.628 177.614 119.727  1.00 47.13           C  
+ATOM     73    P   G     4      33.289 178.302 126.344  1.00 44.37           P  
+ATOM     74  C4'   G     4      33.684 180.611 123.179  1.00 48.94           C  
+ATOM     75  C2'   G     4      32.485 180.583 121.144  1.00 49.40           C  
+ATOM     76  O2'   G     4      33.004 181.751 120.543  1.00 50.98           O  
+ATOM     77   N1   G     4      31.729 176.170 117.768  1.00 48.76           N  
+ATOM     78   N2   G     4      32.138 177.903 116.303  1.00 48.62           N  
+ATOM     79   N3   G     4      32.649 178.230 118.527  1.00 47.84           N  
+ATOM     80   N7   G     4      32.344 176.084 121.389  1.00 48.18           N  
+ATOM     81   N9   G     4      33.035 178.159 120.920  1.00 48.01           N  
+ATOM     82  O5'   G     4      33.150 179.013 124.921  1.00 45.11           O  
+ATOM     83  O3'   G     4      31.764 182.046 122.929  1.00 52.68           O  
+ATOM     84   C4   U     5      33.857 186.119 119.568  1.00 64.76           C  
+ATOM     85   N3   U     5      33.879 187.332 120.226  1.00 64.81           N  
+ATOM     86  OP1   U     5      29.855 181.292 124.367  1.00 52.87           O  
+ATOM     87  OP2   U     5      29.438 182.221 122.002  1.00 52.74           O  
+ATOM     88   C2   U     5      33.310 187.627 121.440  1.00 64.41           C  
+ATOM     89  O5'   U     5      30.162 183.725 123.840  1.00 55.74           O  
+ATOM     90  C3'   U     5      29.988 186.454 124.580  1.00 65.26           C  
+ATOM     91  C1'   U     5      31.926 186.844 123.294  1.00 65.37           C  
+ATOM     92  O4'   U     5      32.279 185.861 124.246  1.00 64.11           O  
+ATOM     93  C5'   U     5      30.834 184.082 125.062  1.00 59.52           C  
+ATOM     94    P   U     5      30.211 182.239 123.276  1.00 53.42           P  
+ATOM     95  C4'   U     5      31.123 185.565 125.083  1.00 63.60           C  
+ATOM     96  C2'   U     5      30.408 186.746 123.145  1.00 66.25           C  
+ATOM     97  O2'   U     5      29.862 187.944 122.621  1.00 67.64           O  
+ATOM     98   N1   U     5      32.637 186.576 122.036  1.00 64.71           N  
+ATOM     99   O4   U     5      34.308 186.043 118.425  1.00 63.08           O  
+ATOM    100   O2   U     5      33.402 188.734 121.945  1.00 64.60           O  
+ATOM    101   C6   U     5      32.612 185.330 121.452  1.00 65.95           C  
+ATOM    102   C5   U     5      33.183 185.073 120.273  1.00 65.58           C  
+ATOM    103  O3'   U     5      29.942 187.668 125.309  1.00 67.74           O  
+ATOM    104   C2   C     6      25.225 183.185 129.273  1.00 79.63           C  
+ATOM    105  OP1   C     6      27.579 187.026 125.923  1.00 68.16           O  
+ATOM    106  OP2   C     6      28.419 189.447 126.075  1.00 69.22           O  
+ATOM    107   C4   C     6      23.526 183.796 127.798  1.00 82.08           C  
+ATOM    108  O5'   C     6      29.207 187.710 127.700  1.00 69.11           O  
+ATOM    109  C3'   C     6      29.473 185.371 129.110  1.00 71.97           C  
+ATOM    110  C1'   C     6      27.292 184.538 129.461  1.00 75.74           C  
+ATOM    111  O4'   C     6      27.314 185.850 129.986  1.00 74.41           O  
+ATOM    112  C5'   C     6      28.316 187.683 128.821  1.00 71.06           C  
+ATOM    113    P   C     6      28.668 187.994 126.228  1.00 69.05           P  
+ATOM    114   O2   C     6      25.705 182.426 130.133  1.00 79.59           O  
+ATOM    115  C4'   C     6      28.592 186.476 129.696  1.00 72.38           C  
+ATOM    116  C2'   C     6      28.447 184.446 128.464  1.00 73.24           C  
+ATOM    117  O2'   C     6      28.890 183.109 128.339  1.00 72.25           O  
+ATOM    118   N1   C     6      25.964 184.306 128.863  1.00 78.39           N  
+ATOM    119   N3   C     6      24.009 182.959 128.722  1.00 81.54           N  
+ATOM    120   N4   C     6      22.326 183.523 127.272  1.00 82.76           N  
+ATOM    121   C6   C     6      25.455 185.163 127.923  1.00 79.50           C  
+ATOM    122   C5   C     6      24.253 184.949 127.369  1.00 81.05           C  
+ATOM    123  O3'   C     6      30.153 184.686 130.168  1.00 69.01           O  
+ATOM    124  OP1   G     7      32.109 184.112 131.594  1.00 67.32           O  
+ATOM    125  OP2   G     7      31.928 186.445 130.534  1.00 67.33           O  
+ATOM    126  C3'   G     7      35.129 183.184 128.408  1.00 59.87           C  
+ATOM    127  C1'   G     7      34.813 183.990 126.204  1.00 58.54           C  
+ATOM    128  C5'   G     7      32.590 183.049 128.862  1.00 63.10           C  
+ATOM    129   O6   G     7      35.443 189.813 124.877  1.00 56.01           O  
+ATOM    130  O4'   G     7      33.553 183.596 126.716  1.00 58.99           O  
+ATOM    131   C8   G     7      34.460 186.313 127.158  1.00 57.74           C  
+ATOM    132   C2   G     7      36.112 186.790 123.142  1.00 57.41           C  
+ATOM    133   C6   G     7      35.506 188.594 124.681  1.00 57.01           C  
+ATOM    134   C5   G     7      35.134 187.534 125.550  1.00 57.33           C  
+ATOM    135   C4   G     7      35.293 186.233 125.122  1.00 57.70           C  
+ATOM    136    P   G     7      31.714 184.978 130.450  1.00 67.41           P  
+ATOM    137  C4'   G     7      33.742 182.798 127.915  1.00 60.88           C  
+ATOM    138  C2'   G     7      35.886 183.357 127.096  1.00 59.89           C  
+ATOM    139  O2'   G     7      36.267 182.115 126.537  1.00 61.77           O  
+ATOM    140   N1   G     7      35.995 188.114 123.473  1.00 56.86           N  
+ATOM    141   N2   G     7      36.605 186.534 121.924  1.00 58.14           N  
+ATOM    142   N3   G     7      35.772 185.792 123.941  1.00 57.43           N  
+ATOM    143   N7   G     7      34.610 187.569 126.834  1.00 57.53           N  
+ATOM    144   N9   G     7      34.854 185.448 126.165  1.00 57.99           N  
+ATOM    145  O5'   G     7      32.475 184.458 129.148  1.00 66.59           O  
+ATOM    146  O3'   G     7      35.693 182.143 129.211  1.00 59.06           O  
+ATOM    147  OP1   A     8      36.900 181.309 131.231  1.00 58.21           O  
+ATOM    148  OP2   A     8      36.443 183.810 130.918  1.00 60.59           O  
+ATOM    149  C3'   A     8      41.088 181.639 128.747  1.00 54.36           C  
+ATOM    150  C1'   A     8      41.352 183.861 128.025  1.00 53.93           C  
+ATOM    151  C5'   A     8      38.491 181.782 128.458  1.00 57.72           C  
+ATOM    152  O4'   A     8      40.038 183.489 127.680  1.00 54.25           O  
+ATOM    153   C8   A     8      41.060 186.019 129.373  1.00 54.78           C  
+ATOM    154  O2'   A     8      43.068 182.900 129.413  1.00 53.05           O  
+ATOM    155   C6   A     8      41.963 188.623 127.179  1.00 55.02           C  
+ATOM    156   C5   A     8      41.641 187.478 127.939  1.00 55.13           C  
+ATOM    157   C4   A     8      41.781 186.252 127.316  1.00 54.68           C  
+ATOM    158    P   A     8      36.791 182.489 130.343  1.00 58.91           P  
+ATOM    159  C4'   A     8      39.878 182.063 127.912  1.00 55.70           C  
+ATOM    160  C2'   A     8      41.666 182.971 129.223  1.00 53.60           C  
+ATOM    161   C2   A     8      42.482 187.187 125.450  1.00 55.21           C  
+ATOM    162   N1   A     8      42.392 188.435 125.914  1.00 54.44           N  
+ATOM    163   N3   A     8      42.202 186.037 126.059  1.00 55.40           N  
+ATOM    164   N6   A     8      41.861 189.875 127.635  1.00 54.82           N  
+ATOM    165   N7   A     8      41.190 187.317 129.241  1.00 54.91           N  
+ATOM    166   N9   A     8      41.394 185.311 128.243  1.00 54.92           N  
+ATOM    167  O5'   A     8      38.179 182.639 129.568  1.00 57.46           O  
+ATOM    168  O3'   A     8      42.044 181.059 127.866  1.00 53.32           O  
+ATOM    169   C4   U     9      40.285 183.103 123.401  1.00 45.89           C  
+ATOM    170   N3   U     9      40.410 182.502 122.165  1.00 44.21           N  
+ATOM    171  OP1   U     9      41.654 178.860 129.079  1.00 53.09           O  
+ATOM    172  OP2   U     9      43.728 179.260 127.605  1.00 52.03           O  
+ATOM    173   C2   U     9      40.566 181.164 121.908  1.00 43.97           C  
+ATOM    174  O5'   U     9      41.458 178.983 126.579  1.00 51.48           O  
+ATOM    175  C3'   U     9      42.782 178.362 123.991  1.00 42.26           C  
+ATOM    176  C1'   U     9      40.811 178.906 122.833  1.00 42.93           C  
+ATOM    177  O4'   U     9      40.454 178.214 124.024  1.00 42.42           O  
+ATOM    178  C5'   U     9      41.541 177.622 126.108  1.00 46.80           C  
+ATOM    179    P   U     9      42.274 179.467 127.863  1.00 54.69           P  
+ATOM    180  C4'   U     9      41.630 177.587 124.600  1.00 42.57           C  
+ATOM    181  C2'   U     9      42.286 178.603 122.573  1.00 42.62           C  
+ATOM    182  O2'   U     9      42.371 177.461 121.751  1.00 42.12           O  
+ATOM    183   N1   U     9      40.594 180.351 123.032  1.00 43.79           N  
+ATOM    184   O4   U     9      40.245 184.331 123.474  1.00 47.46           O  
+ATOM    185   O2   U     9      40.676 180.734 120.775  1.00 43.54           O  
+ATOM    186   C6   U     9      40.446 180.892 124.291  1.00 44.09           C  
+ATOM    187   C5   U     9      40.299 182.200 124.506  1.00 43.68           C  
+ATOM    188  O3'   U     9      43.987 177.623 124.027  1.00 41.11           O  
+ATOM    189  OP1   A    10      37.998 191.115 112.788  1.00 56.54           O  
+ATOM    190  OP2   A    10      37.932 191.061 115.356  1.00 55.75           O  
+ATOM    191  C3'   A    10      38.708 186.450 113.803  1.00 47.88           C  
+ATOM    192  C1'   A    10      40.617 185.916 115.043  1.00 48.24           C  
+ATOM    193  C5'   A    10      39.622 188.647 112.935  1.00 50.46           C  
+ATOM    194  O4'   A    10      40.873 187.090 114.277  1.00 49.71           O  
+ATOM    195   C8   A    10      39.984 187.511 116.951  1.00 48.15           C  
+ATOM    196  O2'   A    10      39.824 184.308 113.451  1.00 47.64           O  
+ATOM    197   C6   A    10      40.052 185.528 119.856  1.00 48.39           C  
+ATOM    198   C5   A    10      40.071 186.191 118.614  1.00 48.12           C  
+ATOM    199   C4   A    10      40.411 185.435 117.508  1.00 48.54           C  
+ATOM    200    P   A    10      38.646 190.788 114.079  1.00 54.52           P  
+ATOM    201  C4'   A    10      39.884 187.201 113.214  1.00 49.03           C  
+ATOM    202  C2'   A    10      39.398 185.246 114.418  1.00 47.82           C  
+ATOM    203   C2   A    10      40.670 183.615 118.716  1.00 48.23           C  
+ATOM    204   N1   A    10      40.361 184.214 119.872  1.00 48.96           N  
+ATOM    205   N3   A    10      40.726 184.128 117.490  1.00 47.69           N  
+ATOM    206   N6   A    10      39.749 186.123 121.011  1.00 48.62           N  
+ATOM    207   N7   A    10      39.803 187.502 118.249  1.00 47.02           N  
+ATOM    208   N9   A    10      40.350 186.292 116.434  1.00 48.27           N  
+ATOM    209  O5'   A    10      39.005 189.246 114.072  1.00 53.17           O  
+ATOM    210  O3'   A    10      37.689 186.109 112.887  1.00 45.78           O  
+ATOM    211  OP1   A    11      35.497 184.927 112.501  1.00 45.92           O  
+ATOM    212  OP2   A    11      35.614 187.111 113.851  1.00 48.55           O  
+ATOM    213  C3'   A    11      34.614 182.550 116.975  1.00 48.46           C  
+ATOM    214  C1'   A    11      36.734 181.967 117.821  1.00 47.07           C  
+ATOM    215  C5'   A    11      35.454 184.575 115.662  1.00 47.90           C  
+ATOM    216  O4'   A    11      36.885 183.038 116.893  1.00 47.16           O  
+ATOM    217   C8   A    11      36.810 183.789 119.608  1.00 46.00           C  
+ATOM    218  O2'   A    11      35.464 180.300 116.666  1.00 49.14           O  
+ATOM    219   C6   A    11      37.206 182.102 122.669  1.00 44.96           C  
+ATOM    220   C5   A    11      37.058 182.632 121.371  1.00 45.28           C  
+ATOM    221   C4   A    11      37.038 181.732 120.322  1.00 45.73           C  
+ATOM    222    P   A    11      36.218 185.813 113.452  1.00 46.80           P  
+ATOM    223  C4'   A    11      35.682 183.146 116.082  1.00 47.66           C  
+ATOM    224  C2'   A    11      35.349 181.366 117.582  1.00 48.05           C  
+ATOM    225   C2   A    11      37.294 180.016 121.679  1.00 44.45           C  
+ATOM    226   N1   A    11      37.328 180.764 122.789  1.00 44.39           N  
+ATOM    227   N3   A    11      37.152 180.394 120.410  1.00 45.54           N  
+ATOM    228   N6   A    11      37.227 182.848 123.777  1.00 43.12           N  
+ATOM    229   N7   A    11      36.918 183.930 120.905  1.00 44.63           N  
+ATOM    230   N9   A    11      36.862 182.485 119.185  1.00 45.83           N  
+ATOM    231  O5'   A    11      36.514 185.006 114.795  1.00 47.59           O  
+ATOM    232  O3'   A    11      33.491 182.129 116.217  1.00 52.23           O  
+ATOM    233   C2   C    12      32.433 183.829 110.946  1.00 63.54           C  
+ATOM    234  OP1   C    12      32.148 182.602 118.284  1.00 53.10           O  
+ATOM    235  OP2   C    12      31.301 180.947 116.513  1.00 54.91           O  
+ATOM    236   C4   C    12      32.522 181.515 111.188  1.00 62.67           C  
+ATOM    237  O5'   C    12      31.325 183.403 116.076  1.00 56.78           O  
+ATOM    238  C3'   C    12      30.336 185.474 114.314  1.00 64.61           C  
+ATOM    239  C1'   C    12      32.239 185.303 112.935  1.00 63.64           C  
+ATOM    240  O4'   C    12      32.667 185.223 114.285  1.00 62.96           O  
+ATOM    241  C5'   C    12      31.613 184.776 116.410  1.00 60.56           C  
+ATOM    242    P   C    12      32.019 182.203 116.861  1.00 55.12           P  
+ATOM    243   O2   C    12      32.428 184.852 110.241  1.00 65.03           O  
+ATOM    244  C4'   C    12      31.586 185.626 115.164  1.00 62.90           C  
+ATOM    245  C2'   C    12      30.829 185.897 112.938  1.00 64.60           C  
+ATOM    246  O2'   C    12      30.930 187.301 112.804  1.00 65.96           O  
+ATOM    247   N1   C    12      32.319 183.954 112.341  1.00 62.97           N  
+ATOM    248   N3   C    12      32.539 182.595 110.402  1.00 63.34           N  
+ATOM    249   N4   C    12      32.638 180.317 110.610  1.00 62.28           N  
+ATOM    250   C6   C    12      32.291 182.839 113.131  1.00 62.12           C  
+ATOM    251   C5   C    12      32.388 181.614 112.603  1.00 62.00           C  
+ATOM    252  O3'   C    12      29.278 186.292 114.798  1.00 67.46           O  
+ATOM    253  OP1   A    13      26.930 186.789 115.417  1.00 69.98           O  
+ATOM    254  OP2   A    13      27.835 184.398 115.632  1.00 69.01           O  
+ATOM    255  C3'   A    13      26.124 184.755 110.941  1.00 79.63           C  
+ATOM    256  C1'   A    13      28.136 183.957 110.015  1.00 77.92           C  
+ATOM    257  C5'   A    13      27.299 186.435 112.425  1.00 74.83           C  
+ATOM    258  O4'   A    13      28.421 185.162 110.716  1.00 77.63           O  
+ATOM    259   C8   A    13      28.645 182.795 112.226  1.00 75.04           C  
+ATOM    260  O2'   A    13      26.329 184.489 108.498  1.00 81.11           O  
+ATOM    261   C6   A    13      29.590 179.514 111.390  1.00 74.17           C  
+ATOM    262   C5   A    13      29.197 180.853 111.564  1.00 74.24           C  
+ATOM    263   C4   A    13      28.923 181.583 110.421  1.00 74.83           C  
+ATOM    264    P   A    13      27.792 185.691 114.907  1.00 69.35           P  
+ATOM    265  C4'   A    13      27.180 185.842 111.048  1.00 77.41           C  
+ATOM    266  C2'   A    13      26.625 183.931 109.763  1.00 79.54           C  
+ATOM    267   C2   A    13      29.381 179.872 109.115  1.00 75.44           C  
+ATOM    268   N1   A    13      29.677 179.045 110.126  1.00 74.32           N  
+ATOM    269   N3   A    13      28.996 181.148 109.152  1.00 75.41           N  
+ATOM    270   N6   A    13      29.873 178.689 112.399  1.00 73.58           N  
+ATOM    271   N7   A    13      29.019 181.632 112.699  1.00 74.25           N  
+ATOM    272   N9   A    13      28.556 182.834 110.855  1.00 76.21           N  
+ATOM    273  O5'   A    13      27.393 185.381 113.399  1.00 71.28           O  
+ATOM    274  O3'   A    13      24.807 185.275 110.796  1.00 82.52           O  
+ATOM    275  OP1   G    14      22.411 185.512 111.449  1.00 85.02           O  
+ATOM    276  OP2   G    14      24.107 184.521 113.102  1.00 85.28           O  
+ATOM    277  C3'   G    14      23.099 180.477 109.756  1.00 86.55           C  
+ATOM    278  C1'   G    14      25.412 180.055 109.992  1.00 83.95           C  
+ATOM    279  C5'   G    14      23.352 183.052 109.673  1.00 86.03           C  
+ATOM    280   O6   G    14      27.050 177.221 115.013  1.00 80.96           O  
+ATOM    281  O4'   G    14      25.170 181.456 109.942  1.00 85.76           O  
+ATOM    282   C8   G    14      25.623 180.402 112.507  1.00 80.40           C  
+ATOM    283   C2   G    14      27.021 176.366 111.563  1.00 78.23           C  
+ATOM    284   C6   G    14      26.879 177.366 113.798  1.00 79.54           C  
+ATOM    285   C5   G    14      26.390 178.505 113.103  1.00 79.30           C  
+ATOM    286   C4   G    14      26.271 178.445 111.733  1.00 79.56           C  
+ATOM    287    P   G    14      23.617 184.684 111.707  1.00 85.40           P  
+ATOM    288  C4'   G    14      23.887 181.690 109.298  1.00 86.53           C  
+ATOM    289  C2'   G    14      24.124 179.367 109.533  1.00 85.63           C  
+ATOM    290  O2'   G    14      24.272 178.994 108.175  1.00 85.16           O  
+ATOM    291   N1   G    14      27.176 176.322 112.927  1.00 78.54           N  
+ATOM    292   N2   G    14      27.361 175.259 110.894  1.00 76.40           N  
+ATOM    293   N3   G    14      26.566 177.419 110.905  1.00 77.97           N  
+ATOM    294   N7   G    14      25.982 179.745 113.579  1.00 79.90           N  
+ATOM    295   N9   G    14      25.760 179.665 111.355  1.00 80.98           N  
+ATOM    296  O5'   G    14      23.372 183.234 111.095  1.00 85.30           O  
+ATOM    297  O3'   G    14      21.911 180.283 108.993  1.00 87.29           O  
+ATOM    298  OP1   A    15      19.563 179.499 108.771  1.00 87.74           O  
+ATOM    299  OP2   A    15      20.872 179.018 110.930  1.00 85.54           O  
+ATOM    300  C3'   A    15      21.569 175.237 107.586  1.00 83.37           C  
+ATOM    301  C1'   A    15      23.825 174.960 108.185  1.00 81.77           C  
+ATOM    302  C5'   A    15      21.735 177.764 107.405  1.00 83.98           C  
+ATOM    303  O4'   A    15      23.638 176.303 107.751  1.00 83.62           O  
+ATOM    304   C8   A    15      23.598 175.969 110.526  1.00 77.70           C  
+ATOM    305  O2'   A    15      22.960 173.598 106.393  1.00 82.35           O  
+ATOM    306   C6   A    15      24.575 173.427 112.752  1.00 76.62           C  
+ATOM    307   C5   A    15      24.215 174.339 111.742  1.00 76.91           C  
+ATOM    308   C4   A    15      24.303 173.894 110.434  1.00 77.90           C  
+ATOM    309    P   A    15      20.843 179.169 109.449  1.00 86.96           P  
+ATOM    310  C4'   A    15      22.354 176.430 107.079  1.00 83.50           C  
+ATOM    311  C2'   A    15      22.637 174.154 107.655  1.00 82.94           C  
+ATOM    312   C2   A    15      25.002 171.902 111.065  1.00 76.76           C  
+ATOM    313   N1   A    15      24.968 172.191 112.373  1.00 75.90           N  
+ATOM    314   N3   A    15      24.695 172.675 110.022  1.00 77.16           N  
+ATOM    315   N6   A    15      24.550 173.717 114.054  1.00 77.11           N  
+ATOM    316   N7   A    15      23.768 175.652 111.787  1.00 77.24           N  
+ATOM    317   N9   A    15      23.903 174.952 109.651  1.00 79.31           N  
+ATOM    318  O5'   A    15      21.415 177.829 108.808  1.00 85.70           O  
+ATOM    319  O3'   A    15      20.467 174.924 106.754  1.00 83.60           O  

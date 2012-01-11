@@ -1,0 +1,80 @@
+#wrapper {   
+}
+
+#whole {
+	min-width: 700px;
+	width: 90%;
+		position: absolute;
+		left: 5%;
+               	}
+
+#header {	width: 95%;
+		height: 82px;
+		margin-left, margin-right: 2.5%;
+		margin-bottom: 25px;
+		padding-bottom: 35px;
+	}
+
+#home	 {	width: 95%;
+		display: block;
+		padding: 10px;
+		margin-left, margin-right: 2.5%;
+		float: left;
+	}
+
+#footer	{	width: 100%;
+		margin-left, margin-right: 2.5%;
+		display: block;
+		float: left;
+		text-align: center;
+	}
+
+.button {	width: 150px;
+		height: 40px;
+	}
+	
+img#banner {	width: 760px;
+		height: 82px;
+	}
+
+.logo {		width: 50px;
+		vertical-align: middle;
+		margin: 10px;
+	}
+table.child {	float: left;
+	}
+
+#jm ol	{	width: 550px;
+		height: 800px;
+		margin: 2%;
+		padding: 2%;
+		vertical-align: middle;
+		text-align: center;
+		float: left;
+	}
+
+#col1	{ 	width: 75%;
+		min-width: 500px;
+		margin-left: 1.75%;
+		display: block;
+		float: left;
+	}
+
+#col2   {	width: 15%;
+		/**min-width: 92px;**/
+		margin-right: 2.5%;
+		display: block;
+		position: absolute;
+		left: 80%;
+		float: right;
+	        
+}
+#top {	display: block;
+	position: relative;
+	top: 0%;
+	}
+#bottom { display: block;
+	  position: relative;
+	  bottom: 0%;
+	}
+
