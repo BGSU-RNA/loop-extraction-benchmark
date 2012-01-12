@@ -6,7 +6,7 @@
 __author__ = 'Anton Petrov'
 
 
-import re, os, numpy, logging, csv, pdb
+import re, os, numpy, logging, csv, pdb, collections
 
 
 class LoopBenchmark():
@@ -14,44 +14,60 @@ class LoopBenchmark():
     """
 
     def __init__(self):
+
+        self.methods = ['fr3d', 'rna3dmotif', 'rnajunction', 'cossmos', 'scor', 'rloom']
         self.scor_ifn = 'scor/1s72.html'
         self.rna3dmotif_location = 'rna3dmotif/CATALOGUE/DESC'
         self.cossmos_location = 'cossmos/results/tmp'
         self.rnajunction_location = 'rnajunction/junctions'
         self.fr3d_ifn = 'fr3d/fr3d_loops.csv'
+        self.rloom_ifn = 'rloom/structures/loops.txt'
 
-        self.scor = []
-        self.rna3dmotif = []
-        self.cossmos = []
-        self.rnajunction = []
-        self.fr3d = []
-        self.fr3d_ids = []
+        self.scor = collections.defaultdict(list)
+        self.rna3dmotif = collections.defaultdict(list)
+        self.cossmos = collections.defaultdict(list)
+        self.rnajunction = collections.defaultdict(list)
+        self.fr3d = collections.defaultdict(list)
+        self.rloom = collections.defaultdict(list)
 
     def parse_scor(self):
         """
         """
+        logging.info('Parsing scor')
         f = open(self.scor_ifn, 'r')
         file = f.read()
         ids = re.findall('&idElement=(.+?)#', file)
-        for id in ids:
+        for i, id in enumerate(ids):
             # 1s72:0:78-80,0:94-99
-            parts = id.replace('1s72:','').replace(':','/').replace('-',':').split(',')
-            parts = ['/'.join(['1',x]) for x in parts]
-            self.scor.append(','.join(parts))
-        logging.info('Scor parsed')
+            chain = id[5]
+            parts = re.findall('\d+-\d+', id)
+            if not parts:
+                nt = re.findall('1s72:\d:(\d+)', id)
+                loop = [int(nt[0])]
+            else:
+                loop = []
+                for part in parts:
+                    nts = part.split('-')
+                    loop.extend(xrange(int(nts[0]), int(nts[1])+1))
+            self.__append_id('scor', chain, i)
+            self.scor[chain].append(sorted(loop))
 
-    def __cossmos_get_strand(self, nts, chain):
+    def print_report(self):
         """
         """
-        model_num = '1'
-        numbers =  ':'.join([nts[0][0:nts[0].index('-')],
-                             nts[-2][0:nts[-2].index('-')]])
-        return '/'.join([model_num, chain, numbers])
+        for method in self.methods:
+            loops = getattr(self, method)
+            logging.info('Chain 9:')
+            print loops['9']
+            logging.info('Found %i loops in chain 0', len(loops['0']))
+            logging.info('Found %i loops in chain 9', len(loops['9']))
 
     def parse_cossmos(self):
         """
         """
+        logging.info('Parsing cossmos')
         files = os.listdir(self.cossmos_location)
+        i = 1
         for ifn in files:
             f = open(os.path.join(self.cossmos_location, ifn), 'r')
             lines = f.readlines()
@@ -71,187 +87,119 @@ class LoopBenchmark():
                 except:
                     chain = '9'
                 parts = line.split('#')
-                nts = parts[strand1].split(' ')
-                lstrand = self.__cossmos_get_strand(nts, chain)
+                nums = []
+                # ['118-G', '119-A', '120-A', '121-U', '122-C', '']
+                nts = re.findall('\d+', parts[strand1])
+                [nums.append(int(x)) for x in nts]
                 if strand2:
-                    nts = parts[strand2].split(' ')
-                    rstrand = self.__cossmos_get_strand(nts, chain)
-                    self.cossmos.append(','.join([lstrand, rstrand]))
-                else:
-                    self.cossmos.append(lstrand)
-        # print self.cossmos
+                    nts = re.findall('\d+', parts[strand2])
+                    [nums.append(int(x)) for x in nts]
+                self.__append_id('cossmos', chain, i)
+                self.cossmos[chain].append(sorted(nums))
+                i += 1
 
     def parse_rna3dmotif(self):
         """
         """
+        logging.info('Parsing rna3dmotif')
         files = os.listdir(self.rna3dmotif_location)
-        for ifn in files:
-            chain = '/'.join(['1',ifn[5]])
+        for i, ifn in enumerate(files):
+            chain = ifn[5]
             f = open(os.path.join(self.rna3dmotif_location, ifn), 'r')
             file = f.read()
             #	Bases: 118_G  119_A  120_A  121_U  122_C
             nts = [re.findall('(\d+)',x) for x in re.findall('Bases: (.+?)\s+\n', file)]
             numbers = [int(x) for x in nts[0]]
-            d = numpy.diff(numbers) # difference between neighbors
-            b = filter(lambda x: x>1, d) # locate chain break
-            if b: # internal loop
-                chbr = d.tolist().index(b[0]) # chain break
-                self.rna3dmotif.append(','.join([
-                    '/'.join([chain, ':'.join([nts[0][0], nts[0][chbr]]) ]),
-                    '/'.join([chain, ':'.join([nts[0][chbr+1], nts[0][-1]]) ])
-                                ]))
-            else: # hairpin loop
-                self.rna3dmotif.append('/'.join([chain, ':'.join([nts[0][0], nts[0][-1]]) ]))
-
-        # print self.rna3dmotif
+            self.__append_id('rna3dmotif', chain, i)
+            self.rna3dmotif[chain].append(sorted(numbers))
 
     def parse_rnajunction(self):
         """Parse rnajunction pdb files to get loop intervals"""
+        logging.info('Parsing rnajunction')
         files = os.listdir(self.rnajunction_location)
-        for ifn in files:
+        for i, ifn in enumerate(files):
+            if 'j2' not in ifn and 'j3' not in ifn:
+                logging.info('Skipping file %s', ifn)
+                continue # skip junction > j3 and kissing loops (k2)
             f = open(os.path.join(self.rnajunction_location, ifn), 'r')
             lines = f.readlines()
+            chain = ifn[20]
             nums = []
             for line in lines:
                 if line[0:4] == 'ATOM':
                     nums.append(line[23:27].rstrip().lstrip())
-                    chain = '/'.join(['1',line[21:22]])
             nums = set(nums) # remove duplicates
-            numbers = []
             nts = []
-            [numbers.append(int(x)) for x in nums] # convert to list
-            numbers.sort()
-            [nts.append(str(x)) for x in numbers] # convert to strings
-            d = numpy.diff(numbers) # difference between neighbors
-            b = filter(lambda x: x>1, d) # locate chain breaks
-            if b: # internal loop or a junction
-                chbr = []
-                d = d.tolist()
-                [chbr.append(d.index(x)) for x in b]
-                start = 0
-                fragments = []
-                for c in chbr: # loop over chainbreaks
-                    fragments.append('/'.join([chain, ':'.join([nts[start], nts[c]]) ]))
-                    start = c + 1
-                self.rnajunction.append(','.join(fragments))
+            [nts.append(int(x)) for x in nums]
+            self.__append_id('rnajunction', chain, i)
+            self.rnajunction[chain].append(sorted(nts))
 
-        # print self.rnajunction
-        # print len(self.rnajunction)
-
+    def __append_id(self, method, chain, i):
+        a = getattr(self, method)
+        self.rnajunction['ids%s' % chain].append('%s%i' % (method, i))
 
     def parse_rloom(self):
-        pass
+        """
+        """
+        logging.info('Parsing rloom')
+        f = open(self.rloom_ifn,'r')
+        reader = csv.reader(f)
+        for i, row in enumerate(reader):
+            nts = re.findall('\d+', row[0])
+            nums = []
+            [nums.append(int(x)) for x in nts]
+            chain = row[1]
+            self.__append_id('rloom', chain, i)
+            self.rloom[chain].append(nums)
 
     def parse_fr3d(self):
         """
         """
+        logging.info('Parsing fr3d')
         f = open(self.fr3d_ifn,'r')
         reader = csv.reader(f)
         for i, row in enumerate(reader):
             if i == 0:
-                i = 1
+                i = 1 # skip header row
                 continue
-            self.fr3d_ids.append(row[0])
-            self.fr3d.append(row[1])
-        # print self.fr3d
-
+            chain = row[1][2]
+            self.fr3d['ids'+chain].append(row[0])
+            parts = re.findall('\d+:\d+', row[1])
+            nts = []
+            for part in parts:
+                nums = part.split(':')
+                nts.extend(xrange(int(nums[0]), int(nums[1])+1))
+            self.fr3d[chain].append(nts)
 
     def integrate(self):
 
-        methods = ['fr3d', 'rna3dmotif', 'rnajunction']
-
-        for i, method in enumerate(methods):
+        for i, method in enumerate(self.methods):
+            logging.info('%s', method)
             loops = getattr(self, method) # e.g. self.fr3d
-            for loop in loops:
-                line = [loop]
-                nts = self.explode_fragments(loop)
-                for method2 in xrange(i+1, len(methods)):
-                    line.append(self.found_in(nts, methods[method2]))
+            for j, loop in enumerate(loops['0']):
+                line = [",".join(["%s" % x for x in loop])]
+                for method2 in xrange(i+1, len(self.methods)):
+                    line.append(self.found_in(loop, self.methods[method2]))
 #                 pdb.set_trace()
-                print '"', '","'.join(line), '"'
+                print ''.join(['"', '","'.join(line), '"'])
 
-
-    def found_in(self, loop, method):
+    def found_in(self, query, method):
         """
         """
-        fragments = getattr(self, method)
-        for i, fragment in enumerate(fragments):
-            nt_range = self.explode_fragments(fragment)
-            common = len(set(nt_range).intersection(loop))
-            if common == len(loop) and common == len(nt_range):
+        chain = '0'
+        loops = getattr(self, method) # e.g. self.rna3dmotif
+        for i, nt_range in enumerate(loops[chain]):
+            common = len(set(nt_range).intersection(query))
+            if common == len(query) and common == len(nt_range):
+                loops[chain].remove(nt_range)
                 return '1' # exact match
             elif common > 1:
-                return fragments[i] # partial match
+                loops[chain].remove(nt_range)
+                return ",".join(["%s" % x for x in nt_range]) # partial match
         return '0'
 
-
-#         fr3d = self.explode_fragments(self.fr3d)
-#         rna3dmotif = self.explode_fragments(self.rna3dmotif)
-#
-#         for fragment1 in fr3d['0']:
-# #             pdb.set_trace()
-#             f = set(fragment1)
-#             matched = False
-#             for fragment2 in rna3dmotif['0']:
-#                 i = len(f.intersection(fragment2))
-#                 if i == 0:
-#                     print 'Exact match'
-#                     matched = True
-#                     break
-#                 elif i > 0:
-#                     print 'Intersection found'
-#                     matched = True
-#                     break
-#             if not matched:
-#                 print 'Could not match'
-
-
-    def explode_fragments(self, fragments):
-        """1/0/100:104 -> [100, 101, 102, 103, 104] + sort
-        """
-#         result = dict()
-#         result['0'] = []
-#         result['9'] = []
-#         for id in fragments:
-#             chain = id[2] # 0 or 9
-        ranges = re.findall('(\d+:\d+)', fragments)
-        exploded = []
-        for ntrange in ranges:
-            parts = ntrange.split(':')
-            exploded = exploded + range(int(parts[0]), int(parts[1])+1)
-#         result[chain].append(sorted(exploded))
-#         return result
-        return exploded
-
-# class Loop():
-#     """
-#     """
-#
-#     def __init__(self, id, fragments, method, chain):
-#         """
-#         """
-#         self.id = id
-#         self.fragments = fragments
-#         self.method = method
-#         self.chain = self.get_chain()
-#         self.type = self.get_type()
-#         self.overlaps = []
-#         self.exact_match = []
-#         self.nts = []
-#         self.done = False
-
-    def get_type(self):
-        """
-        """
-        parts = self.fragments.count(',')
-        if parts == 0:
-            self.type = 'HL'
-        elif parts == 1:
-            self.type = 'IL'
-        else:
-            self.type = ''.join(['J', str(parts)]) # J3, J4 etc
-
-
+    def process_duplicates(self):
+        pass
 
 def main():
     """
@@ -264,8 +212,10 @@ def main():
     L.parse_cossmos()
     L.parse_rnajunction()
     L.parse_fr3d()
+    L.parse_rloom()
+    L.print_report()
     L.integrate()
-    pdb.set_trace()
+#     pdb.set_trace()
 
 if __name__ == "__main__":
     main()
