@@ -67,11 +67,12 @@ class LoopBenchmark():
         """
         for method in self.methods:
             loops = getattr(self, method)
+            logging.info(method)
             logging.info('Chain 9:')
             logging.info(loops['9'])
             logging.info('Found %i loops in chain 0', len(loops['0']))
             logging.info('Found %i loops in chain 9', len(loops['9']))
-            logging.info('%s', '='*50)
+            logging.info('='*50)
 
     def parse_cossmos(self):
         """Parse multiple custom csv files with 2x2, 3x4 etc loops"""
@@ -131,7 +132,7 @@ class LoopBenchmark():
             numbers.sort()
             if numbers not in self.rna3dmotif[chain]:
                 self.__append_id('rna3dmotif', chain, i)
-                self.rna3dmotif[chain].append(sorted(numbers))
+                self.rna3dmotif[chain].append(numbers)
             else:
                 duplicates += 1
         if duplicates > 0:
@@ -145,21 +146,21 @@ class LoopBenchmark():
         for i, ifn in enumerate(files):
             if 'j2' not in ifn and 'j3' not in ifn:
                 logging.info('Skipping file %s', ifn)
-                continue # skip junction > j3 and kissing loops (k2)
+                continue # skip junctions > j3 and kissing loops (k2)
             f = open(os.path.join(self.rnajunction_location, ifn), 'r')
             lines = f.readlines()
             chain = ifn[20]
             nums = []
             for line in lines:
                 if line[0:4] == 'ATOM':
-                    nums.append(line[23:27].rstrip().lstrip())
+                    nums.append(line[22:26].rstrip().lstrip())
             nums = set(nums) # remove duplicates
             nts = []
             [nts.append(int(x)) for x in nums]
             nts.sort()
             if nts not in self.rnajunction[chain]:
                 self.__append_id('rnajunction', chain, i)
-                self.rnajunction[chain].append(sorted(nts))
+                self.rnajunction[chain].append(nts)
             else:
                 duplicates += 1
         if duplicates > 0:
